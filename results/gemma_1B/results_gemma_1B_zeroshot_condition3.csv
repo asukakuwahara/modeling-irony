@@ -1,0 +1,2329 @@
+item_id,prompt_level,irony_label,base_utterance,full_prompt,model_output
+C3_01_L_I,low,ironic,That went exactly as planned.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""That went exactly as planned.""","Let’s break down the statement “That went exactly as planned.”
+
+**(1) Literal Meaning:**
+
+*   “That” refers to a specific event or situation.
+*   “Went” means it occurred or progressed.
+*   “Exactly as planned” means it unfolded in a way that mirrored the original plan.
+
+**(2) Positive or Negative?**
+
+Based on the literal meaning, the statement *could* be interpreted as positive. It suggests a successful and predictable outcome. However, it’s also a common phrase used to express disappointment or frustration when things don’t go as expected. It’s a somewhat understated way of saying “it didn’t go as planned.”
+
+**(3) Straightforward Interpretation:**
+
+The most straightforward interpretation is that it describes a situation where things unfolded predictably and successfully, but it’s also a somewhat passive and potentially disappointing statement.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The phrase ""That went exactly as planned"" is often used sarcastically when something *didn't* go as planned. It implies a lack of surprise or excitement, and a sense of resignation or mild annoyance.  The literal meaning, while potentially positive, is often undermined by"
+C3_01_L_NI,low,non-ironic,That went exactly as planned.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""That went exactly as planned.""","Let’s break down the statement “That went exactly as planned.”
+
+**(1) Literal Meaning:**
+
+*   “That” refers to a specific event or situation.
+*   “Went” means it occurred or progressed.
+*   “Exactly as planned” means it unfolded in a way that mirrored the original plan.
+
+**(2) Positive or Negative?**
+
+Based on the literal meaning, the statement *could* be interpreted as positive. It suggests a successful and predictable outcome. However, it’s also a common phrase used to express disappointment or frustration when things don’t go as expected. It’s a somewhat understated way of saying “it didn’t go as planned.”
+
+**(3) Straightforward Interpretation:**
+
+The most straightforward interpretation is that it describes a situation where things unfolded predictably and successfully, but it’s also a somewhat passive and potentially disappointing statement.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The phrase ""That went exactly as planned"" is often used sarcastically when something *didn't* go as planned. It implies a lack of surprise or excitement, and a sense of resignation or mild annoyance.  The literal meaning, while potentially positive, is often undermined by"
+C3_01_H_I,high,ironic,That went exactly as planned.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""That went exactly as planned.""","Let’s break down this question step-by-step:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “That went exactly as planned.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a classic example of a sarcastic or ironic statement.  It implies the opposite of what’s being said.  A situation where it would be sincerely true would be when something *did* go exactly as planned, and the speaker is expressing genuine relief or satisfaction.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the discrepancy between the words and the likely reality. They’d likely interpret the statement as a way of downplaying a negative situation or expressing frustration.  They’d likely notice the tone of voice, which would be crucial in confirming the irony.
+
+**Is the statement ironic?**
+
+**Yes**
+
+**Explanation:** The statement ""That went exactly as planned"" is inherently ironic because it’s used to describe a situation that clearly *didn’t* go as planned. It’"
+C3_01_H_NI,high,non-ironic,That went exactly as planned.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""That went exactly as planned.""","Let’s break down this question step-by-step:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “That went exactly as planned.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a classic example of a sarcastic or ironic statement.  It implies the opposite of what’s being said.  A situation where it would be sincerely true would be when something *did* go exactly as planned, and the speaker is expressing genuine relief or satisfaction.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the discrepancy between the words and the likely reality. They’d likely interpret the statement as a way of downplaying a negative situation or expressing frustration.  They’d likely notice the tone of voice, which would be crucial in confirming the irony.
+
+**Is the statement ironic?**
+
+**Yes**
+
+**Explanation:** The statement ""That went exactly as planned"" is inherently ironic because it’s used to describe a situation that clearly *didn’t* go as planned. It’"
+C3_02_L_I,low,ironic,I love how this turned out.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I love how this turned out.""","Let’s break down the statement “I love how this turned out.”
+
+**(1) Literal Meaning:** The words literally mean the speaker is expressing a feeling of affection or satisfaction regarding the outcome of a situation.
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly positive. It suggests happiness and contentment with the result.
+
+**(3) Straightforward Interpretation:** Yes. The statement is ironic because it’s a seemingly positive sentiment when, in reality, it likely implies disappointment or frustration with the outcome.
+
+**Therefore, the answer is yes.**"
+C3_02_L_NI,low,non-ironic,I love how this turned out.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I love how this turned out.""","Let’s break down the statement “I love how this turned out.”
+
+**(1) Literal Meaning:** The words literally mean the speaker is expressing a feeling of affection or satisfaction regarding the outcome of a situation.
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly positive. It suggests happiness and contentment with the result.
+
+**(3) Straightforward Interpretation:** Yes. The statement is ironic because it’s a seemingly positive sentiment when, in reality, it likely implies disappointment or frustration with the outcome.
+
+**Therefore, the answer is yes.**"
+C3_02_H_I,high,ironic,I love how this turned out.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I love how this turned out.""","Let’s break down this question step-by-step:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “I love how this turned out.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* sincere, but it’s also potentially ironic.  It’s sincere if:
+
+*   **The situation is genuinely positive:** The speaker is expressing genuine satisfaction and relief that something worked out well, even if it wasn’t initially what they hoped for.
+*   **The “this” is a significant, difficult situation:** The “this” refers to a challenging or frustrating experience.  If the speaker is expressing love for a situation that was incredibly difficult, it would be a genuine sentiment.
+
+However, it could be untrue if:
+
+*   **The “this” is a disastrous situation:** If the speaker is expressing love for a situation that completely failed, it would be a clear indication of insincerity.
+*   **The speaker is being sarcastic:**  The speaker could be using the phrase to downplay a negative outcome, implying the opposite of what they're saying.
+
+**(3) What would a listener familiar with how language"
+C3_02_H_NI,high,non-ironic,I love how this turned out.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I love how this turned out.""","Let’s break down this question step-by-step:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “I love how this turned out.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* sincere, but it’s also potentially ironic.  It’s sincere if:
+
+*   **The situation is genuinely positive:** The speaker is expressing genuine satisfaction and relief that something worked out well, even if it wasn’t initially what they hoped for.
+*   **The “this” is a significant, difficult situation:** The “this” refers to a challenging or frustrating experience.  If the speaker is expressing love for a situation that was incredibly difficult, it would be a genuine sentiment.
+
+However, it could be untrue if:
+
+*   **The “this” is a disastrous situation:** If the speaker is expressing love for a situation that completely failed, it would be a clear indication of insincerity.
+*   **The speaker is being sarcastic:**  The speaker could be using the phrase to downplay a negative outcome, implying the opposite of what they're saying.
+
+**(3) What would a listener familiar with how language"
+C3_03_L_I,low,ironic,This is exactly what I signed up for.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""This is exactly what I signed up for.""","Let’s break this down:
+
+**(1) What do the individual words in this statement literally mean?**
+
+*   “This” – Refers to a situation, event, or experience.
+*   “is exactly what I signed up for” – This implies a feeling of satisfaction or contentment about a particular outcome or situation.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+Based on the literal meaning, the statement *does* describe a positive sentiment – contentment and satisfaction. It suggests the speaker is pleased with the outcome.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+Yes, the statement is ironic. The most straightforward interpretation is that the speaker is *not* actually pleased with the situation. The phrase ""exactly what I signed up for"" is used ironically to express the opposite of what they truly feel.
+
+---
+
+**Therefore, the answer is yes.**"
+C3_03_L_NI,low,non-ironic,This is exactly what I signed up for.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""This is exactly what I signed up for.""","Let’s break this down:
+
+**(1) What do the individual words in this statement literally mean?**
+
+*   “This” – Refers to a situation, event, or experience.
+*   “is exactly what I signed up for” – This implies a feeling of satisfaction or contentment about a particular outcome or situation.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+Based on the literal meaning, the statement *does* describe a positive sentiment – contentment and satisfaction. It suggests the speaker is pleased with the outcome.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+Yes, the statement is ironic. The most straightforward interpretation is that the speaker is *not* actually pleased with the situation. The phrase ""exactly what I signed up for"" is used ironically to express the opposite of what they truly feel.
+
+---
+
+**Therefore, the answer is yes.**"
+C3_03_H_I,high,ironic,This is exactly what I signed up for.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""This is exactly what I signed up for.""","Let’s break down this statement: “This is exactly what I signed up for.”
+
+**(1) What did the speaker literally say?**
+
+The speaker is saying they signed up for something specific – likely a job, a course, a project, or some other arrangement.
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *most* sincerely true if the speaker is experiencing a genuinely positive and unexpected outcome.  It would be untrue if:
+
+*   **The speaker is experiencing a catastrophic or disastrous situation.** (e.g., they signed up for a job that’s a nightmare, a course that’s a complete failure, etc.)
+*   **The speaker is expressing genuine regret or disappointment.** (e.g., they signed up for something and it turned out to be awful.)
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s tone and context would likely infer that the speaker is experiencing a surprising and potentially positive outcome.  The phrase ""exactly what I signed up for"" suggests a feeling of relief, excitement, or a sense of being in the right place at the"
+C3_03_H_NI,high,non-ironic,This is exactly what I signed up for.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""This is exactly what I signed up for.""","Let’s break down this statement: “This is exactly what I signed up for.”
+
+**(1) What did the speaker literally say?**
+
+The speaker is saying they signed up for something specific – likely a job, a course, a project, or some other arrangement.
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *most* sincerely true if the speaker is experiencing a genuinely positive and unexpected outcome.  It would be untrue if:
+
+*   **The speaker is experiencing a catastrophic or disastrous situation.** (e.g., they signed up for a job that’s a nightmare, a course that’s a complete failure, etc.)
+*   **The speaker is expressing genuine regret or disappointment.** (e.g., they signed up for something and it turned out to be awful.)
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s tone and context would likely infer that the speaker is experiencing a surprising and potentially positive outcome.  The phrase ""exactly what I signed up for"" suggests a feeling of relief, excitement, or a sense of being in the right place at the"
+C3_04_L_I,low,ironic,"Oh great, another one of these.","Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""Oh great, another one of these.""","Let’s break down the statement “Oh great, another one of these.”
+
+**(1) Literal Meaning:**
+
+*   “Oh great” – This is an expression of pleasure or excitement.
+*   “Another one of these” – This indicates a repetition or occurrence of something.
+
+**(2) Positive or Negative?**
+
+Based on the literal meaning, the statement is **negative**. It expresses disappointment or frustration at the repetition.
+
+**(3) Straightforward Interpretation:**
+
+The most straightforward interpretation is that the speaker is unhappy about the repetition of a situation or event.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The phrase ""Oh great"" is typically used to express enthusiasm or relief.  The addition of ""another one of these"" completely negates that positive sentiment, creating a sense of annoyance or resignation. It’s a sarcastic expression of disappointment."
+C3_04_L_NI,low,non-ironic,"Oh great, another one of these.","Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""Oh great, another one of these.""","Let’s break down the statement “Oh great, another one of these.”
+
+**(1) Literal Meaning:**
+
+*   “Oh great” – This is an expression of pleasure or excitement.
+*   “Another one of these” – This indicates a repetition or occurrence of something.
+
+**(2) Positive or Negative?**
+
+Based on the literal meaning, the statement is **negative**. It expresses disappointment or frustration at the repetition.
+
+**(3) Straightforward Interpretation:**
+
+The most straightforward interpretation is that the speaker is unhappy about the repetition of a situation or event.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The phrase ""Oh great"" is typically used to express enthusiasm or relief.  The addition of ""another one of these"" completely negates that positive sentiment, creating a sense of annoyance or resignation. It’s a sarcastic expression of disappointment."
+C3_04_H_I,high,ironic,"Oh great, another one of these.","Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Oh great, another one of these.""","Let’s break down this statement: “Oh great, another one of these.”
+
+**(1) What did the speaker literally say?**
+
+The speaker literally said, “Oh great, another one of these.” This is a common expression of disappointment or resignation. It implies a feeling of being repeatedly subjected to something unpleasant or undesirable.
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+*   **Sincerely True:** If the speaker is genuinely frustrated with a recurring problem, a tedious task, or a series of negative experiences, and they’re expressing a feeling of relief that it’s *finally* over, then the statement would be sincerely true.
+*   **Unsure/Untrue:** If the speaker is simply stating a fact without any underlying emotion, or if they’re expressing a detached, indifferent attitude, then the statement would be untrue.  It would be a statement of observation rather than genuine feeling.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with informal conversation would likely infer that the speaker is feeling annoyed or weary. The phrase ""Oh great"" is often used sarcastically to express a negative"
+C3_04_H_NI,high,non-ironic,"Oh great, another one of these.","Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Oh great, another one of these.""","Let’s break down this statement: “Oh great, another one of these.”
+
+**(1) What did the speaker literally say?**
+
+The speaker literally said, “Oh great, another one of these.” This is a common expression of disappointment or resignation. It implies a feeling of being repeatedly subjected to something unpleasant or undesirable.
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+*   **Sincerely True:** If the speaker is genuinely frustrated with a recurring problem, a tedious task, or a series of negative experiences, and they’re expressing a feeling of relief that it’s *finally* over, then the statement would be sincerely true.
+*   **Unsure/Untrue:** If the speaker is simply stating a fact without any underlying emotion, or if they’re expressing a detached, indifferent attitude, then the statement would be untrue.  It would be a statement of observation rather than genuine feeling.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with informal conversation would likely infer that the speaker is feeling annoyed or weary. The phrase ""Oh great"" is often used sarcastically to express a negative"
+C3_05_L_I,low,ironic,Best decision I ever made.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""Best decision I ever made.""","Let’s break down the statement “Best decision I ever made.”
+
+**(1) Literal Meaning:** The words literally mean the speaker is expressing a feeling of satisfaction and pride regarding a particular choice they made.
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly positive. It’s a statement of happiness and contentment about a positive outcome.
+
+**(3) Straightforward Interpretation:** Yes. The statement is straightforwardly positive.
+
+**Therefore, the statement is ironic.**"
+C3_05_L_NI,low,non-ironic,Best decision I ever made.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""Best decision I ever made.""","Let’s break down the statement “Best decision I ever made.”
+
+**(1) Literal Meaning:** The words literally mean the speaker is expressing a feeling of satisfaction and pride regarding a particular choice they made.
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly positive. It’s a statement of happiness and contentment about a positive outcome.
+
+**(3) Straightforward Interpretation:** Yes. The statement is straightforwardly positive.
+
+**Therefore, the statement is ironic.**"
+C3_05_H_I,high,ironic,Best decision I ever made.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Best decision I ever made.""","Okay, let’s break down this statement.
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “Best decision I ever made.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* to be sincerely true, but it’s also potentially untrue depending on the context.  Here’s why:
+
+* **Sincerity:**  It’s a very strong, positive statement.  It suggests a deep sense of satisfaction and pride in a particular choice.
+* **Untrue Situation:**  The situation would make it untrue if:
+    * **The decision was disastrous:**  If the speaker made a terrible choice, saying ""best decision ever"" would be a blatant contradiction of the reality.
+    * **The speaker is deliberately misleading:**  Someone might say this to downplay a mistake or to create a false impression of their judgment.
+    * **The speaker is struggling with regret:**  The statement could be a way to express a complex mix of feelings – acknowledging a good decision while also acknowledging a painful experience.
+
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A"
+C3_05_H_NI,high,non-ironic,Best decision I ever made.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Best decision I ever made.""","Okay, let’s break down this statement.
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “Best decision I ever made.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* to be sincerely true, but it’s also potentially untrue depending on the context.  Here’s why:
+
+* **Sincerity:**  It’s a very strong, positive statement.  It suggests a deep sense of satisfaction and pride in a particular choice.
+* **Untrue Situation:**  The situation would make it untrue if:
+    * **The decision was disastrous:**  If the speaker made a terrible choice, saying ""best decision ever"" would be a blatant contradiction of the reality.
+    * **The speaker is deliberately misleading:**  Someone might say this to downplay a mistake or to create a false impression of their judgment.
+    * **The speaker is struggling with regret:**  The statement could be a way to express a complex mix of feelings – acknowledging a good decision while also acknowledging a painful experience.
+
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A"
+C3_06_L_I,low,ironic,I am so glad I came.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I am so glad I came.""","Let’s break this down:
+
+**(1) What do the individual words literally mean?**
+
+*   “I am” – This indicates the speaker is expressing a state of being.
+*   “so glad” – This expresses a feeling of happiness or pleasure.
+*   “I came” – This indicates the speaker traveled or was brought to a place.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+Based on the literal meaning, the statement is **positive**. It expresses happiness and contentment about a past event.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is expressing relief or satisfaction that they went through something.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Explanation:**
+
+The statement ""I am so glad I came"" is inherently ironic.  The phrase ""I came"" implies a negative experience – a journey, a difficult situation, or a disappointment.  The speaker is claiming to be happy about a negative event, which is a classic example of irony. It’s a statement that clashes with the implied reality."
+C3_06_L_NI,low,non-ironic,I am so glad I came.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I am so glad I came.""","Let’s break this down:
+
+**(1) What do the individual words literally mean?**
+
+*   “I am” – This indicates the speaker is expressing a state of being.
+*   “so glad” – This expresses a feeling of happiness or pleasure.
+*   “I came” – This indicates the speaker traveled or was brought to a place.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+Based on the literal meaning, the statement is **positive**. It expresses happiness and contentment about a past event.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is expressing relief or satisfaction that they went through something.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Explanation:**
+
+The statement ""I am so glad I came"" is inherently ironic.  The phrase ""I came"" implies a negative experience – a journey, a difficult situation, or a disappointment.  The speaker is claiming to be happy about a negative event, which is a classic example of irony. It’s a statement that clashes with the implied reality."
+C3_06_H_I,high,ironic,I am so glad I came.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I am so glad I came.""","Let’s break down this statement: “I am so glad I came.”
+
+**(1) What did the speaker literally say?**
+
+The speaker is saying they are happy about having come to a place.
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true in most situations. It’s a classic example of a sarcastic or ironic statement. Here’s why:
+
+* **Sincerity:** It’s highly improbable that someone would genuinely express profound happiness about having *arrived* at a place.  The focus is on the *arrival* itself, not the positive experience of being there.
+* **Context is Key:** The statement would be more believable if the speaker was experiencing something unpleasant – a terrible commute, a disappointing event, or a situation where they were actively *avoiding* going.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the discrepancy between the words and the likely underlying feeling. They’d likely infer that the speaker is actually frustrated, annoyed, or resigned to a negative experience.  They’d likely notice the"
+C3_06_H_NI,high,non-ironic,I am so glad I came.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I am so glad I came.""","Let’s break down this statement: “I am so glad I came.”
+
+**(1) What did the speaker literally say?**
+
+The speaker is saying they are happy about having come to a place.
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true in most situations. It’s a classic example of a sarcastic or ironic statement. Here’s why:
+
+* **Sincerity:** It’s highly improbable that someone would genuinely express profound happiness about having *arrived* at a place.  The focus is on the *arrival* itself, not the positive experience of being there.
+* **Context is Key:** The statement would be more believable if the speaker was experiencing something unpleasant – a terrible commute, a disappointing event, or a situation where they were actively *avoiding* going.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the discrepancy between the words and the likely underlying feeling. They’d likely infer that the speaker is actually frustrated, annoyed, or resigned to a negative experience.  They’d likely notice the"
+C3_07_L_I,low,ironic,That was totally worth the effort.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""That was totally worth the effort.""","Let’s break down the statement “That was totally worth the effort.”
+
+**(1) Literal Meaning:**
+
+*   “That” – Refers to a specific action or situation.
+*   “Was” – A linking verb indicating a state of being.
+*   “Totally” – An intensifier, meaning “completely"" or ""absolutely.""
+*   “Worth” – Indicates value or benefit.
+*   “The effort” – Refers to the time, work, or energy invested.
+
+**(2) Positive or Negative?**
+
+Based on the literal meaning, the statement is **positive**. It expresses satisfaction and appreciation for the effort expended.
+
+**(3) Straightforward Interpretation:**
+
+The most straightforward interpretation is that the speaker is pleased with the effort put in.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The phrase ""totally worth the effort"" is a very enthusiastic and emphatic expression. It's almost *too* positive to be genuine. It suggests a level of satisfaction that doesn't quite match the actual experience of the effort. It’s a common way to express a strong positive sentiment, but the exaggeration makes it feel ironic."
+C3_07_L_NI,low,non-ironic,That was totally worth the effort.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""That was totally worth the effort.""","Let’s break down the statement “That was totally worth the effort.”
+
+**(1) Literal Meaning:**
+
+*   “That” – Refers to a specific action or situation.
+*   “Was” – A linking verb indicating a state of being.
+*   “Totally” – An intensifier, meaning “completely"" or ""absolutely.""
+*   “Worth” – Indicates value or benefit.
+*   “The effort” – Refers to the time, work, or energy invested.
+
+**(2) Positive or Negative?**
+
+Based on the literal meaning, the statement is **positive**. It expresses satisfaction and appreciation for the effort expended.
+
+**(3) Straightforward Interpretation:**
+
+The most straightforward interpretation is that the speaker is pleased with the effort put in.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The phrase ""totally worth the effort"" is a very enthusiastic and emphatic expression. It's almost *too* positive to be genuine. It suggests a level of satisfaction that doesn't quite match the actual experience of the effort. It’s a common way to express a strong positive sentiment, but the exaggeration makes it feel ironic."
+C3_07_H_I,high,ironic,That was totally worth the effort.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""That was totally worth the effort.""","Let’s break down this question step-by-step:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “That was totally worth the effort.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a very common expression used to express frustration or disappointment.  A sincere statement would be more likely to convey genuine appreciation or relief.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with common conversational patterns would likely infer that the speaker is frustrated with the effort expended. They’d likely be thinking about the time, energy, or resources invested, and expressing that they feel the outcome wasn’t worth it.  It’s a way of saying “I’m annoyed that I spent a lot of time/money on something that didn’t yield the desired result.”
+
+**Is the statement ironic?**
+
+Yes.
+
+**Answer: Yes**"
+C3_07_H_NI,high,non-ironic,That was totally worth the effort.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""That was totally worth the effort.""","Let’s break down this question step-by-step:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “That was totally worth the effort.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a very common expression used to express frustration or disappointment.  A sincere statement would be more likely to convey genuine appreciation or relief.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with common conversational patterns would likely infer that the speaker is frustrated with the effort expended. They’d likely be thinking about the time, energy, or resources invested, and expressing that they feel the outcome wasn’t worth it.  It’s a way of saying “I’m annoyed that I spent a lot of time/money on something that didn’t yield the desired result.”
+
+**Is the statement ironic?**
+
+Yes.
+
+**Answer: Yes**"
+C3_08_L_I,low,ironic,What a treat.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""What a treat.""","Let’s break down the statement “What a treat.”
+
+**(1) Literal Meaning:** “What” refers to a thing or experience. “A treat” refers to a pleasant or enjoyable thing.
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly positive. “Treat” implies something delightful and enjoyable.
+
+**(3) Straightforward Interpretation:** The most straightforward interpretation is that the speaker is expressing genuine delight and enjoyment about something.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:** The word “treat” is typically used to describe a small, often sweet, indulgence. Saying “What a treat” is a positive statement, but it’s delivered with a tone that suggests the speaker is actually expressing disappointment or frustration. It’s a sarcastic or understated expression of negativity."
+C3_08_L_NI,low,non-ironic,What a treat.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""What a treat.""","Let’s break down the statement “What a treat.”
+
+**(1) Literal Meaning:** “What” refers to a thing or experience. “A treat” refers to a pleasant or enjoyable thing.
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly positive. “Treat” implies something delightful and enjoyable.
+
+**(3) Straightforward Interpretation:** The most straightforward interpretation is that the speaker is expressing genuine delight and enjoyment about something.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:** The word “treat” is typically used to describe a small, often sweet, indulgence. Saying “What a treat” is a positive statement, but it’s delivered with a tone that suggests the speaker is actually expressing disappointment or frustration. It’s a sarcastic or understated expression of negativity."
+C3_08_H_I,high,ironic,What a treat.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""What a treat.""","Let’s break down this question step-by-step:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “What a treat.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a classic example of sarcasm.  The literal meaning is a positive expression of enjoyment. However, the situation that would make it *seem* sincere is a situation where the speaker is experiencing something genuinely unpleasant or disappointing.  For example:
+
+*   **Someone is receiving a terrible service:** ""What a treat"" could be said after a long wait, a rude waiter, or a broken product.
+*   **Someone is dealing with a significant loss:** ""What a treat"" could be said after a funeral or a devastating news event.
+*   **Someone is experiencing a frustrating situation:** ""What a treat"" could be said after a series of failed attempts to solve a problem.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the discrepancy between the literal words and the likely underlying emotion. They’d understand"
+C3_08_H_NI,high,non-ironic,What a treat.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""What a treat.""","Let’s break down this question step-by-step:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “What a treat.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a classic example of sarcasm.  The literal meaning is a positive expression of enjoyment. However, the situation that would make it *seem* sincere is a situation where the speaker is experiencing something genuinely unpleasant or disappointing.  For example:
+
+*   **Someone is receiving a terrible service:** ""What a treat"" could be said after a long wait, a rude waiter, or a broken product.
+*   **Someone is dealing with a significant loss:** ""What a treat"" could be said after a funeral or a devastating news event.
+*   **Someone is experiencing a frustrating situation:** ""What a treat"" could be said after a series of failed attempts to solve a problem.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the discrepancy between the literal words and the likely underlying emotion. They’d understand"
+C3_09_L_I,low,ironic,This is going really well.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""This is going really well.""","Let’s break down the statement “This is going really well.”
+
+**(1) Literal Meaning:**
+
+*   “This” refers to a current situation or state.
+*   “is going” indicates a progression or development.
+*   “really well” expresses a positive assessment of the situation.
+
+**(2) Positive or Negative?**
+
+Based on the literal meaning, the statement *is* positive. It suggests a favorable outcome.
+
+**(3) Straightforward Interpretation:**
+
+The most straightforward interpretation is that the speaker believes the situation is progressing positively.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The phrase ""This is going really well"" is typically used to express optimism and success. However, when said in the context of a clearly difficult or challenging situation, it’s inherently ironic. It’s a contradiction of the expected sentiment. It suggests the opposite of what’s actually happening."
+C3_09_L_NI,low,non-ironic,This is going really well.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""This is going really well.""","Let’s break down the statement “This is going really well.”
+
+**(1) Literal Meaning:**
+
+*   “This” refers to a current situation or state.
+*   “is going” indicates a progression or development.
+*   “really well” expresses a positive assessment of the situation.
+
+**(2) Positive or Negative?**
+
+Based on the literal meaning, the statement *is* positive. It suggests a favorable outcome.
+
+**(3) Straightforward Interpretation:**
+
+The most straightforward interpretation is that the speaker believes the situation is progressing positively.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The phrase ""This is going really well"" is typically used to express optimism and success. However, when said in the context of a clearly difficult or challenging situation, it’s inherently ironic. It’s a contradiction of the expected sentiment. It suggests the opposite of what’s actually happening."
+C3_09_H_I,high,ironic,This is going really well.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""This is going really well.""","Let’s break down this question step-by-step:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “This is going really well.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true in most situations. It’s a common phrase used to express optimism or a positive experience. However, it *could* be sincerely true in a very specific, unusual circumstance.  Here are a few examples:
+
+* **A medical breakthrough:**  If a patient is experiencing a miraculous recovery from a serious illness, the speaker might genuinely be saying this.
+* **A sudden, unexpected success:**  Perhaps a small, seemingly insignificant project has unexpectedly blossomed into something significant.
+* **A highly controlled, isolated environment:**  In a lab setting, or a very specific, contained situation, the speaker might be describing a successful experiment.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with common conversational patterns would likely infer that the speaker is being *slightly* sarcastic or understated.  They'd recognize the phrase as a polite way of acknowledging something"
+C3_09_H_NI,high,non-ironic,This is going really well.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""This is going really well.""","Let’s break down this question step-by-step:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “This is going really well.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true in most situations. It’s a common phrase used to express optimism or a positive experience. However, it *could* be sincerely true in a very specific, unusual circumstance.  Here are a few examples:
+
+* **A medical breakthrough:**  If a patient is experiencing a miraculous recovery from a serious illness, the speaker might genuinely be saying this.
+* **A sudden, unexpected success:**  Perhaps a small, seemingly insignificant project has unexpectedly blossomed into something significant.
+* **A highly controlled, isolated environment:**  In a lab setting, or a very specific, contained situation, the speaker might be describing a successful experiment.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with common conversational patterns would likely infer that the speaker is being *slightly* sarcastic or understated.  They'd recognize the phrase as a polite way of acknowledging something"
+C3_10_L_I,low,ironic,I am having the time of my life.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I am having the time of my life.""","Let’s break this down:
+
+**(1) What do the individual words literally mean?**
+
+*   “I” – Refers to the speaker.
+*   “am having” – Indicates a present state of enjoyment.
+*   “the time” – Refers to a period of time.
+*   “of my life” – Suggests a positive experience within their life.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+Based on the literal meaning, the statement *does* describe something positive. It suggests a feeling of great enjoyment.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the statement expresses a feeling of great happiness and contentment.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Explanation:**
+
+The phrase ""I am having the time of my life"" is almost universally understood as a positive expression. However, the context of the statement – that the speaker is *experiencing* a difficult or unpleasant situation – creates a clear sense of irony. It's a deliberately exaggerated and insincere statement used to mask a negative reality."
+C3_10_L_NI,low,non-ironic,I am having the time of my life.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I am having the time of my life.""","Let’s break this down:
+
+**(1) What do the individual words literally mean?**
+
+*   “I” – Refers to the speaker.
+*   “am having” – Indicates a present state of enjoyment.
+*   “the time” – Refers to a period of time.
+*   “of my life” – Suggests a positive experience within their life.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+Based on the literal meaning, the statement *does* describe something positive. It suggests a feeling of great enjoyment.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the statement expresses a feeling of great happiness and contentment.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Explanation:**
+
+The phrase ""I am having the time of my life"" is almost universally understood as a positive expression. However, the context of the statement – that the speaker is *experiencing* a difficult or unpleasant situation – creates a clear sense of irony. It's a deliberately exaggerated and insincere statement used to mask a negative reality."
+C3_10_H_I,high,ironic,I am having the time of my life.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I am having the time of my life.""","Let’s break down this statement: “I am having the time of my life.”
+
+**(1) What did the speaker literally say?**
+
+The speaker literally said, “I am having the time of my life.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true in most situations.  It’s a common expression used to express genuine enjoyment. However, it *could* be sincerely true in a very specific, unusual circumstance.  Here are a few examples:
+
+*   **A profound, unexpected experience:** Imagine someone who has just experienced a truly transformative event – like witnessing a breathtaking natural phenomenon, receiving an incredibly generous gift, or overcoming a significant personal challenge with incredible grace.  The feeling of joy and contentment would be so intense that it *feels* like they’re having the time of their life.
+*   **A deeply held, secret joy:** Perhaps someone is harboring a secret joy – a long-held dream, a hidden talent, or a profound connection to something they’ve been struggling with.  The realization of this joy could be overwhelming and feel like a blissful moment.
+*   **A highly controlled, artificial environment:**"
+C3_10_H_NI,high,non-ironic,I am having the time of my life.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I am having the time of my life.""","Let’s break down this statement: “I am having the time of my life.”
+
+**(1) What did the speaker literally say?**
+
+The speaker literally said, “I am having the time of my life.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true in most situations.  It’s a common expression used to express genuine enjoyment. However, it *could* be sincerely true in a very specific, unusual circumstance.  Here are a few examples:
+
+*   **A profound, unexpected experience:** Imagine someone who has just experienced a truly transformative event – like witnessing a breathtaking natural phenomenon, receiving an incredibly generous gift, or overcoming a significant personal challenge with incredible grace.  The feeling of joy and contentment would be so intense that it *feels* like they’re having the time of their life.
+*   **A deeply held, secret joy:** Perhaps someone is harboring a secret joy – a long-held dream, a hidden talent, or a profound connection to something they’ve been struggling with.  The realization of this joy could be overwhelming and feel like a blissful moment.
+*   **A highly controlled, artificial environment:**"
+C3_11_L_I,low,ironic,I could not have asked for more.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I could not have asked for more.""","Let’s break this down:
+
+**(1) What do the individual words in this statement literally mean?**
+
+*   “I” – Refers to the speaker.
+*   “could not have” – Indicates a difficulty or inability to achieve something.
+*   “asked for” – Suggests a request or seeking of something.
+*   “more” – Refers to a quantity or degree of something.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The statement is decidedly negative. It expresses disappointment and frustration about a lack of success.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is unhappy with a situation where they were unable to get more of something.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Explanation:**
+
+The statement ""I could not have asked for more"" is a classic example of irony. It’s a statement of frustration and disappointment, but it’s delivered with a tone that suggests the opposite – that the speaker *did* ask for more, and they were denied. The inherent contradiction between the words and the implied meaning creates"
+C3_11_L_NI,low,non-ironic,I could not have asked for more.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I could not have asked for more.""","Let’s break this down:
+
+**(1) What do the individual words in this statement literally mean?**
+
+*   “I” – Refers to the speaker.
+*   “could not have” – Indicates a difficulty or inability to achieve something.
+*   “asked for” – Suggests a request or seeking of something.
+*   “more” – Refers to a quantity or degree of something.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The statement is decidedly negative. It expresses disappointment and frustration about a lack of success.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is unhappy with a situation where they were unable to get more of something.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Explanation:**
+
+The statement ""I could not have asked for more"" is a classic example of irony. It’s a statement of frustration and disappointment, but it’s delivered with a tone that suggests the opposite – that the speaker *did* ask for more, and they were denied. The inherent contradiction between the words and the implied meaning creates"
+C3_11_H_I,high,ironic,I could not have asked for more.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I could not have asked for more.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I could not have asked for more.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a classic example of a sarcastic or ironic statement.  It implies the opposite of what it says.  A genuinely sincere statement would express gratitude or relief.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the disconnect between the words and the likely underlying feeling. They’d likely infer that the speaker is frustrated, disappointed, or perhaps even resentful.  They’d understand that the speaker is *not* happy about something.
+
+**Answer:** Yes."
+C3_11_H_NI,high,non-ironic,I could not have asked for more.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I could not have asked for more.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I could not have asked for more.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a classic example of a sarcastic or ironic statement.  It implies the opposite of what it says.  A genuinely sincere statement would express gratitude or relief.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the disconnect between the words and the likely underlying feeling. They’d likely infer that the speaker is frustrated, disappointed, or perhaps even resentful.  They’d understand that the speaker is *not* happy about something.
+
+**Answer:** Yes."
+C3_12_L_I,low,ironic,That went better than expected.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That went better than expected.""","Let’s break this down:
+
+**(1) What do the individual words in this statement literally mean?**
+
+*   “That” – Refers to a specific event or situation.
+*   “Went better” – Indicates a positive outcome.
+*   “Than expected” – Means the outcome was not as anticipated or desired.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The statement describes a positive outcome – the event went better than anticipated.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+Yes, the statement is ironic.
+
+**Answer:** Yes"
+C3_12_L_NI,low,non-ironic,That went better than expected.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That went better than expected.""","Let’s break this down:
+
+**(1) What do the individual words in this statement literally mean?**
+
+*   “That” – Refers to a specific event or situation.
+*   “Went better” – Indicates a positive outcome.
+*   “Than expected” – Means the outcome was not as anticipated or desired.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The statement describes a positive outcome – the event went better than anticipated.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+Yes, the statement is ironic.
+
+**Answer:** Yes"
+C3_12_H_I,high,ironic,That went better than expected.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That went better than expected.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “That went better than expected.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* sincere, but it’s also potentially ironic. It’s sincere if the situation genuinely improved significantly. However, it’s *unlikely* to be sincere if the situation was objectively bad.  The key is the “better than expected” part – it implies a positive outcome, but it’s a relatively small improvement.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with casual conversation would likely interpret this as a slight, almost understated, expression of satisfaction. It’s a way of acknowledging a positive outcome without being overly effusive. It suggests the speaker felt a small amount of relief or contentment, but didn't want to dwell on the negative.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The statement is ironic because it’s praising a situation that, while improved, wasn't a monumental success. It’s a subtle understatement, suggesting"
+C3_12_H_NI,high,non-ironic,That went better than expected.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That went better than expected.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “That went better than expected.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* sincere, but it’s also potentially ironic. It’s sincere if the situation genuinely improved significantly. However, it’s *unlikely* to be sincere if the situation was objectively bad.  The key is the “better than expected” part – it implies a positive outcome, but it’s a relatively small improvement.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with casual conversation would likely interpret this as a slight, almost understated, expression of satisfaction. It’s a way of acknowledging a positive outcome without being overly effusive. It suggests the speaker felt a small amount of relief or contentment, but didn't want to dwell on the negative.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The statement is ironic because it’s praising a situation that, while improved, wasn't a monumental success. It’s a subtle understatement, suggesting"
+C3_13_L_I,low,ironic,What an absolute pleasure.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""What an absolute pleasure.""","Let’s break down the statement “What an absolute pleasure.”
+
+**(1) Literal Meaning:** The words literally mean “What an absolute pleasure.” This is a phrase expressing a strong feeling of delight and enjoyment.
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly positive.
+
+**(3) Straightforward Interpretation:** The most straightforward interpretation is that the speaker is genuinely delighted and thrilled by something.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:** The phrase “What an absolute pleasure” is typically used to express extreme delight.  The context of the statement – “What an absolute pleasure” – strongly suggests the speaker is actually expressing displeasure or frustration. It’s a deliberately exaggerated and insincere expression of happiness."
+C3_13_L_NI,low,non-ironic,What an absolute pleasure.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""What an absolute pleasure.""","Let’s break down the statement “What an absolute pleasure.”
+
+**(1) Literal Meaning:** The words literally mean “What an absolute pleasure.” This is a phrase expressing a strong feeling of delight and enjoyment.
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly positive.
+
+**(3) Straightforward Interpretation:** The most straightforward interpretation is that the speaker is genuinely delighted and thrilled by something.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:** The phrase “What an absolute pleasure” is typically used to express extreme delight.  The context of the statement – “What an absolute pleasure” – strongly suggests the speaker is actually expressing displeasure or frustration. It’s a deliberately exaggerated and insincere expression of happiness."
+C3_13_H_I,high,ironic,What an absolute pleasure.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What an absolute pleasure.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “What an absolute pleasure.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a very common, often sarcastic, response to a genuinely unpleasant situation.  It implies the speaker is *not* enjoying the situation at all.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize this as ironic. The phrase “What an absolute pleasure” is used to express the opposite of what is said – that the speaker is actually very unhappy.
+
+**Answer:** Yes."
+C3_13_H_NI,high,non-ironic,What an absolute pleasure.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What an absolute pleasure.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “What an absolute pleasure.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a very common, often sarcastic, response to a genuinely unpleasant situation.  It implies the speaker is *not* enjoying the situation at all.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize this as ironic. The phrase “What an absolute pleasure” is used to express the opposite of what is said – that the speaker is actually very unhappy.
+
+**Answer:** Yes."
+C3_14_L_I,low,ironic,I am thrilled this happened.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am thrilled this happened.""","Let’s break this down:
+
+**(1) What do the individual words literally mean?**
+
+*   “I” – Refers to the speaker.
+*   “am” – A verb indicating a state of being.
+*   “thrilled” – An emotion expressing great pleasure and excitement.
+*   “this” – A demonstrative pronoun referring to a specific event.
+*   “happened” – A past tense verb indicating an occurrence.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The statement is overwhelmingly positive. It expresses a feeling of great joy and excitement about a positive event.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is expressing extreme happiness and satisfaction about a positive event.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Answer: Yes**
+
+**Reasoning:**
+
+The statement ""I am thrilled this happened"" is a classic example of irony.  ""Thrilled"" implies intense excitement and joy, but the context of the situation (presumably a negative event) creates a stark contrast. It’s a deliberately exaggerated and incongru"
+C3_14_L_NI,low,non-ironic,I am thrilled this happened.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am thrilled this happened.""","Let’s break this down:
+
+**(1) What do the individual words literally mean?**
+
+*   “I” – Refers to the speaker.
+*   “am” – A verb indicating a state of being.
+*   “thrilled” – An emotion expressing great pleasure and excitement.
+*   “this” – A demonstrative pronoun referring to a specific event.
+*   “happened” – A past tense verb indicating an occurrence.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The statement is overwhelmingly positive. It expresses a feeling of great joy and excitement about a positive event.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is expressing extreme happiness and satisfaction about a positive event.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Answer: Yes**
+
+**Reasoning:**
+
+The statement ""I am thrilled this happened"" is a classic example of irony.  ""Thrilled"" implies intense excitement and joy, but the context of the situation (presumably a negative event) creates a stark contrast. It’s a deliberately exaggerated and incongru"
+C3_14_H_I,high,ironic,I am thrilled this happened.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am thrilled this happened.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I am thrilled this happened.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s highly ironic because it’s a reaction to a negative or unfortunate event.  A genuinely thrilled response would typically be *in response* to something positive or a desired outcome.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s personality and typical communication style would likely infer that the speaker is experiencing significant distress, frustration, or disappointment.  The phrase “thrilled” is a strong, exaggerated reaction to a difficult situation, suggesting a disconnect between their stated emotion and the reality of the circumstances.
+
+**Answer:** Yes."
+C3_14_H_NI,high,non-ironic,I am thrilled this happened.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am thrilled this happened.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I am thrilled this happened.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s highly ironic because it’s a reaction to a negative or unfortunate event.  A genuinely thrilled response would typically be *in response* to something positive or a desired outcome.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s personality and typical communication style would likely infer that the speaker is experiencing significant distress, frustration, or disappointment.  The phrase “thrilled” is a strong, exaggerated reaction to a difficult situation, suggesting a disconnect between their stated emotion and the reality of the circumstances.
+
+**Answer:** Yes."
+C3_15_L_I,low,ironic,This is going to be fine.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""This is going to be fine.""","Let’s break down the statement “This is going to be fine.”
+
+**(1) Literal Meaning:** The words literally mean “This is happening/will happen” or “This situation is expected to be stable.”
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly negative. It suggests a lack of concern or expectation of a positive outcome.
+
+**(3) Straightforward Interpretation:** The most straightforward interpretation is negative.
+
+**Is the statement ironic?** Yes.
+
+**Reasoning:** The phrase ""This is going to be fine"" is a common expression of optimism and reassurance. However, when delivered in the context of a situation that is clearly facing difficulty or potential disaster, it’s inherently ironic. It’s a deliberate contradiction of the likely reality."
+C3_15_L_NI,low,non-ironic,This is going to be fine.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""This is going to be fine.""","Let’s break down the statement “This is going to be fine.”
+
+**(1) Literal Meaning:** The words literally mean “This is happening/will happen” or “This situation is expected to be stable.”
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly negative. It suggests a lack of concern or expectation of a positive outcome.
+
+**(3) Straightforward Interpretation:** The most straightforward interpretation is negative.
+
+**Is the statement ironic?** Yes.
+
+**Reasoning:** The phrase ""This is going to be fine"" is a common expression of optimism and reassurance. However, when delivered in the context of a situation that is clearly facing difficulty or potential disaster, it’s inherently ironic. It’s a deliberate contradiction of the likely reality."
+C3_15_H_I,high,ironic,This is going to be fine.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""This is going to be fine.""","Let’s break down the statement “This is going to be fine.”
+
+**(1) What did the speaker literally say?**
+
+The speaker is saying “This is going to be fine.” This is a common expression used to reassure someone that a situation is likely to be okay, even if it’s not entirely positive. It’s a hopeful statement.
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *most* sincerely true if the situation is genuinely going to be fine. However, it’s *unlikely* to be sincerely true if the situation is demonstrably disastrous.  A situation where the speaker is saying this while facing a catastrophic event would be highly ironic.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s tone and context would likely infer that the speaker is expressing a degree of **disbelief, resignation, or anxiety**. They’d likely perceive the statement as a way to avoid acknowledging a very difficult reality. It’s a deflection, a way to mask underlying worry or fear.  It’s not a genuine expression of optimism.
+
+**Therefore, the answer"
+C3_15_H_NI,high,non-ironic,This is going to be fine.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""This is going to be fine.""","Let’s break down the statement “This is going to be fine.”
+
+**(1) What did the speaker literally say?**
+
+The speaker is saying “This is going to be fine.” This is a common expression used to reassure someone that a situation is likely to be okay, even if it’s not entirely positive. It’s a hopeful statement.
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *most* sincerely true if the situation is genuinely going to be fine. However, it’s *unlikely* to be sincerely true if the situation is demonstrably disastrous.  A situation where the speaker is saying this while facing a catastrophic event would be highly ironic.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s tone and context would likely infer that the speaker is expressing a degree of **disbelief, resignation, or anxiety**. They’d likely perceive the statement as a way to avoid acknowledging a very difficult reality. It’s a deflection, a way to mask underlying worry or fear.  It’s not a genuine expression of optimism.
+
+**Therefore, the answer"
+C3_16_L_I,low,ironic,I am so lucky to be here.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am so lucky to be here.""","Let’s break this down:
+
+**(1) What do the individual words literally mean?**
+
+*   “I” – Refers to the speaker.
+*   “am” – A verb indicating a state of being.
+*   “so” – An intensifier, meaning “very” or “extremely.”
+*   “lucky” – An adjective describing a fortunate state.
+*   “to be” – A verb indicating location or existence.
+*   “here” – A preposition indicating a place.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The words themselves don’t inherently suggest positivity or negativity. They are expressions of feeling.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is expressing a feeling of gratitude or contentment for being in a particular situation. It’s a somewhat understated expression of happiness.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The statement ""I am so lucky to be here"" is often used sarcastically. The inherent meaning of the words is positive, but the *way* it's"
+C3_16_L_NI,low,non-ironic,I am so lucky to be here.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am so lucky to be here.""","Let’s break this down:
+
+**(1) What do the individual words literally mean?**
+
+*   “I” – Refers to the speaker.
+*   “am” – A verb indicating a state of being.
+*   “so” – An intensifier, meaning “very” or “extremely.”
+*   “lucky” – An adjective describing a fortunate state.
+*   “to be” – A verb indicating location or existence.
+*   “here” – A preposition indicating a place.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The words themselves don’t inherently suggest positivity or negativity. They are expressions of feeling.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is expressing a feeling of gratitude or contentment for being in a particular situation. It’s a somewhat understated expression of happiness.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The statement ""I am so lucky to be here"" is often used sarcastically. The inherent meaning of the words is positive, but the *way* it's"
+C3_16_H_I,high,ironic,I am so lucky to be here.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am so lucky to be here.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I am so lucky to be here.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a very common expression of gratitude, but it’s often used sarcastically when someone is facing a genuinely awful or difficult situation.  The irony comes from the contrast between the words and the likely reality.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would likely interpret the statement as a way of downplaying a negative experience. They’d recognize that the speaker is likely feeling stressed, frustrated, or burdened, and is using the phrase to express a lack of genuine gratitude rather than a sincere appreciation.
+
+**Answer:** Yes."
+C3_16_H_NI,high,non-ironic,I am so lucky to be here.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am so lucky to be here.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I am so lucky to be here.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a very common expression of gratitude, but it’s often used sarcastically when someone is facing a genuinely awful or difficult situation.  The irony comes from the contrast between the words and the likely reality.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would likely interpret the statement as a way of downplaying a negative experience. They’d recognize that the speaker is likely feeling stressed, frustrated, or burdened, and is using the phrase to express a lack of genuine gratitude rather than a sincere appreciation.
+
+**Answer:** Yes."
+C3_17_L_I,low,ironic,That was exactly the right call.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That was exactly the right call.""","Let’s break this down:
+
+**(1) What do the individual words in this statement literally mean?**
+
+The words are: “That,” “was,” “exactly,” “the,” “right,” “call.”
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The words themselves don’t inherently suggest a positive or negative sentiment. They’re simply describing a situation.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is expressing a degree of satisfaction or agreement with the call made.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Explanation:**
+
+The statement ""That was exactly the right call"" is inherently ironic. It's a positive statement, but the context (implied by the preceding sentence) suggests the opposite. The speaker is likely frustrated or disappointed with the call. The juxtaposition of the positive phrase with the negative context creates irony."
+C3_17_L_NI,low,non-ironic,That was exactly the right call.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That was exactly the right call.""","Let’s break this down:
+
+**(1) What do the individual words in this statement literally mean?**
+
+The words are: “That,” “was,” “exactly,” “the,” “right,” “call.”
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The words themselves don’t inherently suggest a positive or negative sentiment. They’re simply describing a situation.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is expressing a degree of satisfaction or agreement with the call made.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Explanation:**
+
+The statement ""That was exactly the right call"" is inherently ironic. It's a positive statement, but the context (implied by the preceding sentence) suggests the opposite. The speaker is likely frustrated or disappointed with the call. The juxtaposition of the positive phrase with the negative context creates irony."
+C3_17_H_I,high,ironic,That was exactly the right call.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That was exactly the right call.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “That was exactly the right call.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a highly improbable and potentially sarcastic statement.  It implies the call was *terrible*.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s tone and context would likely infer that the speaker is expressing frustration, disappointment, or perhaps even a slight sense of disbelief. They’d likely interpret it as a way to downplay a poor call.
+
+**Answer:** Yes."
+C3_17_H_NI,high,non-ironic,That was exactly the right call.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That was exactly the right call.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “That was exactly the right call.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a highly improbable and potentially sarcastic statement.  It implies the call was *terrible*.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s tone and context would likely infer that the speaker is expressing frustration, disappointment, or perhaps even a slight sense of disbelief. They’d likely interpret it as a way to downplay a poor call.
+
+**Answer:** Yes."
+C3_18_L_I,low,ironic,What a fantastic outcome.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""What a fantastic outcome.""","Let’s analyze the statement “What a fantastic outcome.”
+
+(1) **Literal Meaning:** The words literally mean “What is a fantastic outcome?” This is a question asking for a description of a positive result.
+
+(2) **Positive or Negative:** Based on the literal meaning, the statement is positive. It expresses excitement and approval.
+
+(3) **Straightforward Interpretation:** The most straightforward interpretation is that the speaker is pleased with a positive result.
+
+**Therefore, the answer is yes.**"
+C3_18_L_NI,low,non-ironic,What a fantastic outcome.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""What a fantastic outcome.""","Let’s analyze the statement “What a fantastic outcome.”
+
+(1) **Literal Meaning:** The words literally mean “What is a fantastic outcome?” This is a question asking for a description of a positive result.
+
+(2) **Positive or Negative:** Based on the literal meaning, the statement is positive. It expresses excitement and approval.
+
+(3) **Straightforward Interpretation:** The most straightforward interpretation is that the speaker is pleased with a positive result.
+
+**Therefore, the answer is yes.**"
+C3_18_H_I,high,ironic,What a fantastic outcome.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What a fantastic outcome.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “What a fantastic outcome.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a very common, often sarcastic, response to a negative or disappointing outcome.  It implies the speaker believes the outcome is *actually* fantastic, despite the reality.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize this as ironic. They’d understand that the speaker is using a positive phrase to express a negative sentiment – that the outcome is actually terrible. They’d likely also pick up on the tone of voice, which would be delivered with a slight, exaggerated emphasis on ""fantastic.""
+
+**Answer:** Yes."
+C3_18_H_NI,high,non-ironic,What a fantastic outcome.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What a fantastic outcome.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said: “What a fantastic outcome.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a very common, often sarcastic, response to a negative or disappointing outcome.  It implies the speaker believes the outcome is *actually* fantastic, despite the reality.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize this as ironic. They’d understand that the speaker is using a positive phrase to express a negative sentiment – that the outcome is actually terrible. They’d likely also pick up on the tone of voice, which would be delivered with a slight, exaggerated emphasis on ""fantastic.""
+
+**Answer:** Yes."
+C3_19_L_I,low,ironic,I would do this again in a heartbeat.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I would do this again in a heartbeat.""","Let’s break down the statement “I would do this again in a heartbeat.”
+
+**(1) What do the individual words literally mean?**
+
+*   “I” – Refers to the speaker.
+*   “would” – Indicates a willingness or intention to repeat an action.
+*   “do” – The action to be performed.
+*   “this” – Refers to a specific action or situation.
+*   “again” – Indicates repetition.
+*   “in a heartbeat” – A figurative expression meaning quickly or immediately.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The statement is decidedly **negative**. It expresses a strong desire to repeat an action, but with a sense of urgency and perhaps reluctance. It suggests a feeling of regret or a desire to avoid a negative outcome.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is expressing a strong aversion to doing something and a desire to avoid it. It’s a forceful, somewhat panicked, and negative statement.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Answer: Yes**"
+C3_19_L_NI,low,non-ironic,I would do this again in a heartbeat.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I would do this again in a heartbeat.""","Let’s break down the statement “I would do this again in a heartbeat.”
+
+**(1) What do the individual words literally mean?**
+
+*   “I” – Refers to the speaker.
+*   “would” – Indicates a willingness or intention to repeat an action.
+*   “do” – The action to be performed.
+*   “this” – Refers to a specific action or situation.
+*   “again” – Indicates repetition.
+*   “in a heartbeat” – A figurative expression meaning quickly or immediately.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The statement is decidedly **negative**. It expresses a strong desire to repeat an action, but with a sense of urgency and perhaps reluctance. It suggests a feeling of regret or a desire to avoid a negative outcome.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the speaker is expressing a strong aversion to doing something and a desire to avoid it. It’s a forceful, somewhat panicked, and negative statement.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Answer: Yes**"
+C3_19_H_I,high,ironic,I would do this again in a heartbeat.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I would do this again in a heartbeat.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I would do this again in a heartbeat.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *highly* likely to be sincerely true. It’s a very common and emphatic expression of enthusiastic agreement and a strong desire to repeat an action.  It’s a way of saying “absolutely, I’d do it again, immediately.”
+
+**(3) What would a listener familiar with how language is used infer about the speaker’s actual intended meaning?**
+
+A listener familiar with casual conversation would likely infer that the speaker is incredibly pleased with the outcome of the action they’re describing. They’d likely be feeling a strong sense of satisfaction and a desire to replicate the experience.  It’s not a statement of genuine regret or concern; it’s a declaration of enthusiastic approval.
+
+**Answer:** Yes."
+C3_19_H_NI,high,non-ironic,I would do this again in a heartbeat.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I would do this again in a heartbeat.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I would do this again in a heartbeat.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *highly* likely to be sincerely true. It’s a very common and emphatic expression of enthusiastic agreement and a strong desire to repeat an action.  It’s a way of saying “absolutely, I’d do it again, immediately.”
+
+**(3) What would a listener familiar with how language is used infer about the speaker’s actual intended meaning?**
+
+A listener familiar with casual conversation would likely infer that the speaker is incredibly pleased with the outcome of the action they’re describing. They’d likely be feeling a strong sense of satisfaction and a desire to replicate the experience.  It’s not a statement of genuine regret or concern; it’s a declaration of enthusiastic approval.
+
+**Answer:** Yes."
+C3_20_L_I,low,ironic,What a refreshing change.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""What a refreshing change.""","Let’s analyze the statement “What a refreshing change.”
+
+(1) **Literal Meaning:** The words literally mean “What is a refreshing change?”  It’s a question asking for a description of a positive alteration.
+
+(2) **Positive or Negative:** The statement is **positive**. It expresses a feeling of relief and happiness about a positive shift.
+
+(3) **Straightforward Interpretation:** Yes. The statement is straightforwardly expressing a positive sentiment.
+
+**Therefore, the answer is yes.**"
+C3_20_L_NI,low,non-ironic,What a refreshing change.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What a refreshing change.""","Let’s analyze the statement “What a refreshing change.”
+
+(1) **Literal Meaning:** The words literally mean “What is a refreshing change?”  It’s a question asking for a description of a positive change.
+
+(2) **Positive or Negative:** Based on the literal meaning, it’s overwhelmingly positive. It expresses delight and satisfaction with a change.
+
+(3) **Straightforward Interpretation:** Yes, it is ironic. The phrase “What a refreshing change” is typically used to express genuine delight and excitement.  Its use in this context is a deliberate contradiction of that sentiment.
+
+**Therefore, the answer is yes.**"
+C3_20_H_I,high,ironic,What a refreshing change.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What a refreshing change.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “What a refreshing change.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a classic example of sarcasm. The situation would need to be profoundly unpleasant or disastrous.  For example:
+
+*   If someone is describing a terrible situation (e.g., a flooded house, a broken car, a failed business venture) and says “What a refreshing change.”
+*   If someone is delivering bad news about a loved one.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the discrepancy between the words and the likely reality. They’d understand that the speaker is expressing the *opposite* of what they are saying.  They’d likely pick up on the tone of voice and body language accompanying the statement – a flat, exaggerated, or drawn-out delivery – to reinforce the ironic intent.
+
+**Answer:** Yes."
+C3_20_H_NI,high,non-ironic,What a refreshing change.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What a refreshing change.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “What a refreshing change.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. It’s a classic example of sarcasm. The situation would need to be profoundly unpleasant or disastrous.  For example:
+
+*   If someone is describing a terrible situation (e.g., a flooded house, a broken car, a failed business venture) and says “What a refreshing change.”
+*   If someone is delivering bad news about a loved one.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the discrepancy between the words and the likely reality. They’d understand that the speaker is expressing the *opposite* of what they are saying.  They’d likely pick up on the tone of voice and body language accompanying the statement – a flat, exaggerated, or drawn-out delivery – to reinforce the ironic intent.
+
+**Answer:** Yes."
+C3_21_L_I,low,ironic,This is working out perfectly.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+ 
+Is the following statement ironic? Answer with yes or no.
+  ""This is working out perfectly.""","Let’s analyze the statement “This is working out perfectly.”
+
+(1) **Literal meaning:** The words literally mean “this is the result of a process or situation that is progressing favorably.”
+
+(2) **Positive or negative?** Based on the literal meaning, it *could* be positive, implying a successful outcome. However, it’s also easily interpreted as negative – suggesting a situation is going well, but perhaps in a frustrating or undesirable way.
+
+(3) **Straightforward interpretation:** The most straightforward interpretation is that it’s a positive statement, suggesting a successful outcome.
+
+**Therefore, the answer is yes.**"
+C3_21_L_NI,low,non-ironic,This is working out perfectly.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+ 
+Is the following statement ironic? Answer with yes or no.
+  ""This is working out perfectly.""","Let’s analyze the statement “This is working out perfectly.”
+
+(1) **Literal meaning:** The words literally mean “this is the result of a process or situation that is progressing favorably.”
+
+(2) **Positive or negative?** Based on the literal meaning, it *could* be positive, implying a successful outcome. However, it’s also easily interpreted as negative – suggesting a situation is going well, but perhaps in a frustrating or undesirable way.
+
+(3) **Straightforward interpretation:** The most straightforward interpretation is that it’s a positive statement, suggesting a successful outcome.
+
+**Therefore, the answer is yes.**"
+C3_21_H_I,high,ironic,This is working out perfectly.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""This is working out perfectly.""","Let’s break down the statement “This is working out perfectly.”
+
+**(1) What did the speaker literally say?**
+
+The speaker is saying “This is a successful outcome.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true in most situations. It’s a classic example of a sarcastic or ironic statement.  It would be sincerely true if the situation was *completely* disastrous.  For example:
+
+*   **Scenario:** A car has a major mechanical failure, and the speaker is saying this with a frustrated sigh.
+*   **Situation where it's sincere:** A project has been meticulously planned and executed flawlessly, resulting in a successful outcome.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the discrepancy between the words and the likely reality. They’d likely infer that the speaker is expressing frustration, disappointment, or resignation, rather than genuine satisfaction. They’d likely notice the tone of voice and body language accompanying the statement.
+
+**Answer:** Yes."
+C3_21_H_NI,high,non-ironic,This is working out perfectly.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""This is working out perfectly.""","Let’s break down the statement “This is working out perfectly.”
+
+**(1) What did the speaker literally say?**
+
+The speaker is saying “This is a successful outcome.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true in most situations. It’s a classic example of a sarcastic or ironic statement.  It would be sincerely true if the situation was *completely* disastrous.  For example:
+
+*   **Scenario:** A car has a major mechanical failure, and the speaker is saying this with a frustrated sigh.
+*   **Situation where it's sincere:** A project has been meticulously planned and executed flawlessly, resulting in a successful outcome.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with sarcasm would immediately recognize the discrepancy between the words and the likely reality. They’d likely infer that the speaker is expressing frustration, disappointment, or resignation, rather than genuine satisfaction. They’d likely notice the tone of voice and body language accompanying the statement.
+
+**Answer:** Yes."
+C3_22_L_I,low,ironic,"Well, that was enlightening.","Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+ 
+Is the following statement ironic? Answer with yes or no.
+  ""Well, that was enlightening.""","Let’s break down the statement “Well, that was enlightening.”
+
+**(1) Literal Meaning:**
+
+*   “Well” – Indicates a response or observation.
+*   “That” – Refers to a previous event or situation.
+*   “was” – A verb indicating a state of being.
+*   “enlightening” – A noun meaning to provide understanding or knowledge.
+
+**(2) Positive or Negative?**
+
+Based on the literal meaning, the statement is **not** inherently positive or negative. It’s a neutral observation.
+
+**(3) Straightforward Interpretation:**
+
+The most straightforward interpretation is that the speaker is expressing a sense of surprise or mild disappointment at something that happened.  It suggests the experience was somewhat confusing or unproductive.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The phrase ""enlightening"" is typically associated with learning or gaining new knowledge.  Using it to describe a disappointing experience creates a sense of irony – the speaker is saying something positive, but the reality is the opposite."
+C3_22_L_NI,low,non-ironic,"Well, that was enlightening.","Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+ 
+Is the following statement ironic? Answer with yes or no.
+  ""Well, that was enlightening.""","Let’s break down the statement “Well, that was enlightening.”
+
+**(1) Literal Meaning:**
+
+*   “Well” – Indicates a response or observation.
+*   “That” – Refers to a previous event or situation.
+*   “was” – A verb indicating a state of being.
+*   “enlightening” – A noun meaning to provide understanding or knowledge.
+
+**(2) Positive or Negative?**
+
+Based on the literal meaning, the statement is **not** inherently positive or negative. It’s a neutral observation.
+
+**(3) Straightforward Interpretation:**
+
+The most straightforward interpretation is that the speaker is expressing a sense of surprise or mild disappointment at something that happened.  It suggests the experience was somewhat confusing or unproductive.
+
+**Is the statement ironic?**
+
+Yes.
+
+**Reasoning:**
+
+The phrase ""enlightening"" is typically associated with learning or gaining new knowledge.  Using it to describe a disappointing experience creates a sense of irony – the speaker is saying something positive, but the reality is the opposite."
+C3_22_H_I,high,ironic,"Well, that was enlightening.","Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""Well, that was enlightening.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “Well, that was enlightening.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* sincere, but it’s also potentially ironic.  It’s sincere if the speaker genuinely found the experience enlightening. However, it could be ironic if the experience was profoundly unpleasant, confusing, or frustrating.  The key is the tone of voice and context.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with common conversational patterns would likely infer that the speaker is trying to soften a potentially negative experience.  ""Enlightening"" is often used as a polite way to acknowledge something was difficult or confusing, but also suggests it was valuable or insightful.  It’s a way of saying, ""Okay, this was hard, but it was worth it.""
+
+**Is the statement ironic?**
+
+**Yes.**
+
+**Reasoning:** The phrase ""well"" is often used to preface a somewhat underwhelming or disappointing experience.  The speaker is essentially saying, ""I'm glad you found it"
+C3_22_H_NI,high,non-ironic,"Well, that was enlightening.","Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""Well, that was enlightening.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “Well, that was enlightening.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* sincere, but it’s also potentially ironic.  It’s sincere if the speaker genuinely found the experience enlightening. However, it could be ironic if the experience was profoundly unpleasant, confusing, or frustrating.  The key is the tone of voice and context.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with common conversational patterns would likely infer that the speaker is trying to soften a potentially negative experience.  ""Enlightening"" is often used as a polite way to acknowledge something was difficult or confusing, but also suggests it was valuable or insightful.  It’s a way of saying, ""Okay, this was hard, but it was worth it.""
+
+**Is the statement ironic?**
+
+**Yes.**
+
+**Reasoning:** The phrase ""well"" is often used to preface a somewhat underwhelming or disappointing experience.  The speaker is essentially saying, ""I'm glad you found it"
+C3_23_L_I,low,ironic,I have never felt more appreciated.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I have never felt more appreciated.""","Let’s break down the statement “I have never felt more appreciated.”
+
+**(1) Literal Meaning:** The words literally mean the speaker is stating that they have never experienced a feeling of being deeply valued, acknowledged, or cherished.
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly negative. It suggests a feeling of profound lack of appreciation.
+
+**(3) Straightforward Interpretation:** The most straightforward interpretation is negative.
+
+**Is the statement ironic?** Yes.
+
+**Reasoning:** The statement is ironic because it expresses a feeling of intense gratitude and appreciation, which is the opposite of what one would expect to feel. It’s a deliberately exaggerated and somewhat absurd statement."
+C3_23_L_NI,low,non-ironic,I have never felt more appreciated.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I have never felt more appreciated.""","Let’s break down the statement “I have never felt more appreciated.”
+
+**(1) Literal Meaning:** The words literally mean the speaker is stating that they have never experienced a feeling of being deeply valued, acknowledged, or cherished.
+
+**(2) Positive or Negative?** Based on the literal meaning, it’s overwhelmingly negative. It suggests a feeling of profound lack of appreciation.
+
+**(3) Straightforward Interpretation:** The most straightforward interpretation is negative.
+
+**Is the statement ironic?** Yes.
+
+**Reasoning:** The statement is ironic because it expresses a feeling of intense gratitude and appreciation, which is the opposite of what one would expect to feel. It’s a deliberately exaggerated and somewhat absurd statement."
+C3_23_H_I,high,ironic,I have never felt more appreciated.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I have never felt more appreciated.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I have never felt more appreciated.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* to be sincerely true, but it’s also potentially untrue depending on the context.  It’s a very strong statement, and sincerity is key.  A situation where it would be *untrue* would be:
+
+*   **A situation where the speaker is actively being criticized or undermined.** If they’re constantly receiving negative feedback, or being deliberately ignored, the statement would be a blatant lie.
+*   **A situation where the speaker is being deliberately unappreciated.**  If they’re consistently overlooked for opportunities, their ideas dismissed, or their efforts minimized, the statement would be untrue.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s personality and communication style would likely infer that the speaker is genuinely feeling deeply valued and appreciated.  The intensity of the statement suggests a significant emotional response – a feeling of profound gratitude and contentment.  It’s a rare"
+C3_23_H_NI,high,non-ironic,I have never felt more appreciated.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I have never felt more appreciated.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I have never felt more appreciated.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* to be sincerely true, but it’s also potentially untrue depending on the context.  It’s a very strong statement, and sincerity is key.  A situation where it would be *untrue* would be:
+
+*   **A situation where the speaker is actively being criticized or undermined.** If they’re constantly receiving negative feedback, or being deliberately ignored, the statement would be a blatant lie.
+*   **A situation where the speaker is being deliberately unappreciated.**  If they’re consistently overlooked for opportunities, their ideas dismissed, or their efforts minimized, the statement would be untrue.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s personality and communication style would likely infer that the speaker is genuinely feeling deeply valued and appreciated.  The intensity of the statement suggests a significant emotional response – a feeling of profound gratitude and contentment.  It’s a rare"
+C3_24_L_I,low,ironic,That was a real confidence boost.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That was a real confidence boost.""","Let’s break this down:
+
+**(1) What do the individual words in this statement literally mean?**
+
+*   “That” – Refers to a past event or experience.
+*   “was” – A linking verb indicating a state of being.
+*   “a real” – An intensifier, meaning significant or noteworthy.
+*   “confidence boost” – A positive experience, typically involving increased self-assurance.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+Based on the literal meaning, the statement *does* describe something positive. It suggests a feeling of increased self-assurance.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the statement is positive.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Explanation:**
+
+The statement ""That was a real confidence boost"" is inherently ironic.  A ""confidence boost"" is *expected* to be a positive experience. Saying it was a ""real"" boost implies the opposite – that it was a disappointing or underwhelming experience. The juxtaposition of the positive word ""boost"" with the negative context of the statement creates"
+C3_24_L_NI,low,non-ironic,That was a real confidence boost.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That was a real confidence boost.""","Let’s break this down:
+
+**(1) What do the individual words in this statement literally mean?**
+
+*   “That” – Refers to a past event or experience.
+*   “was” – A linking verb indicating a state of being.
+*   “a real” – An intensifier, meaning significant or noteworthy.
+*   “confidence boost” – A positive experience, typically involving increased self-assurance.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+Based on the literal meaning, the statement *does* describe something positive. It suggests a feeling of increased self-assurance.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+The most straightforward interpretation is that the statement is positive.
+
+**Is the following statement ironic?**
+
+Yes.
+
+**Explanation:**
+
+The statement ""That was a real confidence boost"" is inherently ironic.  A ""confidence boost"" is *expected* to be a positive experience. Saying it was a ""real"" boost implies the opposite – that it was a disappointing or underwhelming experience. The juxtaposition of the positive word ""boost"" with the negative context of the statement creates"
+C3_24_H_I,high,ironic,That was a real confidence boost.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That was a real confidence boost.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “That was a real confidence boost.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. A confidence boost is generally a positive experience – a feeling of increased self-assurance. Saying it was a “real” confidence boost implies a significant, demonstrable improvement in confidence.  However, it could be *ironically* true if the situation was profoundly disappointing or humiliating.  For example, someone might say this after receiving a devastating rejection, or after a major failure.  The irony would come from the contrast between the words and the reality of the situation.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s personality and communication style would likely infer that the speaker is being sarcastic or understated. They’d likely recognize that “real” is a hyperbolic descriptor, suggesting the experience was minimal or even negative.  They’d also likely suspect a degree of self-deprecation.
+
+**Answer:** Yes."
+C3_24_H_NI,high,non-ironic,That was a real confidence boost.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That was a real confidence boost.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “That was a real confidence boost.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *unlikely* to be sincerely true. A confidence boost is generally a positive experience – a feeling of increased self-assurance. Saying it was a “real” confidence boost implies a significant, demonstrable improvement in confidence.  However, it could be *ironically* true if the situation was profoundly disappointing or humiliating.  For example, someone might say this after receiving a devastating rejection, or after a major failure.  The irony would come from the contrast between the words and the reality of the situation.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s personality and communication style would likely infer that the speaker is being sarcastic or understated. They’d likely recognize that “real” is a hyperbolic descriptor, suggesting the experience was minimal or even negative.  They’d also likely suspect a degree of self-deprecation.
+
+**Answer:** Yes."
+C3_25_L_I,low,ironic,I am so glad someone finally explained that to me.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am so glad someone finally explained that to me.""","Let’s break this down:
+
+**(1) What do the individual words literally mean?**
+
+*   “I am so glad” – Expresses happiness or contentment.
+*   “someone finally explained” – Indicates a resolution to a problem or a revelation.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The statement is decidedly positive. It expresses happiness and satisfaction.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+Yes."
+C3_25_L_NI,low,non-ironic,I am so glad someone finally explained that to me.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am so glad someone finally explained that to me.""","Let’s break this down:
+
+**(1) What do the individual words literally mean?**
+
+*   “I am so glad” – Expresses happiness or contentment.
+*   “someone finally explained” – Indicates a resolution to a problem or a revelation.
+
+**(2) Taking the words at face value, does the statement describe something positive or negative?**
+
+The statement is decidedly positive. It expresses happiness and satisfaction.
+
+**(3) Based purely on the meaning of the words, what is the most straightforward interpretation?**
+
+Yes."
+C3_25_H_I,high,ironic,I am so glad someone finally explained that to me.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am so glad someone finally explained that to me.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I am so glad someone finally explained that to me.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* sincere, but it’s also potentially ironic.  It’s sincere if the speaker genuinely feels relieved and appreciative that someone finally understood something complex. However, it could be ironic if the speaker is experiencing a situation where they’ve been repeatedly frustrated and misunderstood, and this statement is a sarcastic acknowledgment of their continued struggle.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s tone and context would likely infer that the speaker is *not* genuinely glad. The phrase ""finally explained"" suggests a long period of difficulty and frustration. The ""so glad"" is a strong, somewhat exaggerated expression, and the context of the situation would be crucial to confirm this.
+
+**Answer:** Yes."
+C3_25_H_NI,high,non-ironic,I am so glad someone finally explained that to me.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am so glad someone finally explained that to me.""","Let’s break this down:
+
+**(1) What did the speaker literally say?**
+
+The speaker said, “I am so glad someone finally explained that to me.”
+
+**(2) What situation would make this statement sincerely true versus untrue?**
+
+This statement is *likely* sincere, but it’s also potentially ironic.  It’s sincere if the speaker genuinely feels relieved and appreciative that someone finally understood something complex. However, it could be ironic if the speaker is experiencing a situation where they’ve been repeatedly frustrated and misunderstood, and this statement is a sarcastic acknowledgment of their continued struggle.
+
+**(3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?**
+
+A listener familiar with the speaker’s tone and context would likely infer that the speaker is *not* genuinely glad. The phrase ""finally explained"" suggests a long period of difficulty and frustration. The ""so glad"" is a strong, somewhat exaggerated expression, and the context of the situation would be crucial to confirm this.
+
+**Answer:** Yes."

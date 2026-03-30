@@ -1,0 +1,909 @@
+item_id,prompt_level,irony_label,base_utterance,full_prompt,model_output
+C3_01_L_I,low,ironic,That went exactly as planned.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""That went exactly as planned.""","Let's break down the statement ""That went exactly as planned.""
+
+1. **Literal Meaning:**"
+C3_01_L_NI,low,non-ironic,That went exactly as planned.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""That went exactly as planned.""","Let's break down the statement ""That went exactly as planned.""
+
+1. **Literal Meaning:**"
+C3_01_H_I,high,ironic,That went exactly as planned.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""That went exactly as planned.""","Let's analyze the statement ""That went exactly as planned.""
+
+1. **Literal Meaning:**"
+C3_01_H_NI,high,non-ironic,That went exactly as planned.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""That went exactly as planned.""","Let's analyze the statement ""That went exactly as planned.""
+
+1. **Literal Meaning:**"
+C3_02_L_I,low,ironic,I love how this turned out.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I love how this turned out.""","Let's break down the statement ""I love how this turned out.""
+
+1. **Literal Meaning:"
+C3_02_L_NI,low,non-ironic,I love how this turned out.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I love how this turned out.""","Let's break down the statement ""I love how this turned out.""
+
+1. **Literal Meaning:"
+C3_02_H_I,high,ironic,I love how this turned out.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I love how this turned out.""","Let's analyze the statement ""I love how this turned out.""
+
+1. **Literal Meaning:**"
+C3_02_H_NI,high,non-ironic,I love how this turned out.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I love how this turned out.""","Let's analyze the statement ""I love how this turned out.""
+
+1. **Literal Meaning:**"
+C3_03_L_I,low,ironic,This is exactly what I signed up for.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""This is exactly what I signed up for.""","Let's break down the statement ""This is exactly what I signed up for.""
+
+1. **Literal"
+C3_03_L_NI,low,non-ironic,This is exactly what I signed up for.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""This is exactly what I signed up for.""","Let's break down the statement ""This is exactly what I signed up for.""
+
+1. **Literal"
+C3_03_H_I,high,ironic,This is exactly what I signed up for.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""This is exactly what I signed up for.""","Let's analyze the statement ""This is exactly what I signed up for.""
+
+1. **Literal Meaning"
+C3_03_H_NI,high,non-ironic,This is exactly what I signed up for.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""This is exactly what I signed up for.""","Let's analyze the statement ""This is exactly what I signed up for.""
+
+1. **Literal Meaning"
+C3_04_L_I,low,ironic,"Oh great, another one of these.","Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""Oh great, another one of these.""","Let's break down the statement:
+
+1. **Literal Meaning:**
+   - ""Oh great"""
+C3_04_L_NI,low,non-ironic,"Oh great, another one of these.","Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""Oh great, another one of these.""","Let's break down the statement:
+
+1. **Literal Meaning:**
+   - ""Oh great"""
+C3_04_H_I,high,ironic,"Oh great, another one of these.","Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Oh great, another one of these.""","Let's analyze the statement:
+
+**Literal Meaning:**
+The speaker literally says, ""Oh great,"
+C3_04_H_NI,high,non-ironic,"Oh great, another one of these.","Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Oh great, another one of these.""","Let's analyze the statement:
+
+**Literal Meaning:**
+The speaker literally says, ""Oh great,"
+C3_05_L_I,low,ironic,Best decision I ever made.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""Best decision I ever made.""","Let's break down the statement ""Best decision I ever made.""
+
+1. **Literal Meaning:**"
+C3_05_L_NI,low,non-ironic,Best decision I ever made.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""Best decision I ever made.""","Let's break down the statement ""Best decision I ever made.""
+
+1. **Literal Meaning:**"
+C3_05_H_I,high,ironic,Best decision I ever made.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Best decision I ever made.""","Let's analyze the statement ""Best decision I ever made.""
+
+1. **Literal Meaning:** The speaker"
+C3_05_H_NI,high,non-ironic,Best decision I ever made.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Best decision I ever made.""","Let's analyze the statement ""Best decision I ever made.""
+
+1. **Literal Meaning:** The speaker"
+C3_06_L_I,low,ironic,I am so glad I came.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I am so glad I came.""","Let's break down the statement ""I am so glad I came.""
+
+1. **Literal Meaning:"
+C3_06_L_NI,low,non-ironic,I am so glad I came.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I am so glad I came.""","Let's break down the statement ""I am so glad I came.""
+
+1. **Literal Meaning:"
+C3_06_H_I,high,ironic,I am so glad I came.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I am so glad I came.""","Let's analyze the statement ""I am so glad I came.""
+
+1. **Literal Meaning:**"
+C3_06_H_NI,high,non-ironic,I am so glad I came.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I am so glad I came.""","Let's analyze the statement ""I am so glad I came.""
+
+1. **Literal Meaning:**"
+C3_07_L_I,low,ironic,That was totally worth the effort.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""That was totally worth the effort.""","Let's break down the statement ""That was totally worth the effort.""
+
+1. **Literal Meaning:"
+C3_07_L_NI,low,non-ironic,That was totally worth the effort.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""That was totally worth the effort.""","Let's break down the statement ""That was totally worth the effort.""
+
+1. **Literal Meaning:"
+C3_07_H_I,high,ironic,That was totally worth the effort.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""That was totally worth the effort.""","Let's analyze the statement ""That was totally worth the effort.""
+
+1. **Literal Interpretation:"
+C3_07_H_NI,high,non-ironic,That was totally worth the effort.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""That was totally worth the effort.""","Let's analyze the statement ""That was totally worth the effort.""
+
+1. **Literal Interpretation:"
+C3_08_L_I,low,ironic,What a treat.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""What a treat.""","Let's break down the statement ""What a treat."" 
+
+1. **Literal Meaning:**"
+C3_08_L_NI,low,non-ironic,What a treat.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""What a treat.""","Let's break down the statement ""What a treat."" 
+
+1. **Literal Meaning:**"
+C3_08_H_I,high,ironic,What a treat.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""What a treat.""","Let's analyze the statement ""What a treat."" 
+
+1. **Literal Meaning:** The speaker literally"
+C3_08_H_NI,high,non-ironic,What a treat.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""What a treat.""","Let's analyze the statement ""What a treat."" 
+
+1. **Literal Meaning:** The speaker literally"
+C3_09_L_I,low,ironic,This is going really well.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""This is going really well.""","Let's break down the statement ""This is going really well.""
+
+1. **Literal Meaning:**"
+C3_09_L_NI,low,non-ironic,This is going really well.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""This is going really well.""","Let's break down the statement ""This is going really well.""
+
+1. **Literal Meaning:**"
+C3_09_H_I,high,ironic,This is going really well.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""This is going really well.""","Let's analyze the statement ""This is going really well.""
+
+1. **Literal Meaning:**"
+C3_09_H_NI,high,non-ironic,This is going really well.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""This is going really well.""","Let's analyze the statement ""This is going really well.""
+
+1. **Literal Meaning:**"
+C3_10_L_I,low,ironic,I am having the time of my life.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I am having the time of my life.""","Let's break down the statement ""I am having the time of my life.""
+
+1. **Literal"
+C3_10_L_NI,low,non-ironic,I am having the time of my life.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+ ""I am having the time of my life.""","Let's break down the statement ""I am having the time of my life.""
+
+1. **Literal"
+C3_10_H_I,high,ironic,I am having the time of my life.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I am having the time of my life.""","Let's analyze the statement ""I am having the time of my life.""
+
+1. **Literal Meaning"
+C3_10_H_NI,high,non-ironic,I am having the time of my life.,"Consider the following before answering:
+ (1) What did the speaker literally say?
+ (2) What situation would make this statement sincerely true versus untrue?
+ (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""I am having the time of my life.""","Let's analyze the statement ""I am having the time of my life.""
+
+1. **Literal Meaning"
+C3_11_L_I,low,ironic,I could not have asked for more.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I could not have asked for more.""","Let's break down the statement ""I could not have asked for more.""
+
+1. **Literal Meaning"
+C3_11_L_NI,low,non-ironic,I could not have asked for more.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I could not have asked for more.""","Let's break down the statement ""I could not have asked for more.""
+
+1. **Literal Meaning"
+C3_11_H_I,high,ironic,I could not have asked for more.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I could not have asked for more.""","The statement ""I could not have asked for more."" is not ironic. It is a straightforward expression"
+C3_11_H_NI,high,non-ironic,I could not have asked for more.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I could not have asked for more.""","The statement ""I could not have asked for more."" is not ironic. It is a straightforward expression"
+C3_12_L_I,low,ironic,That went better than expected.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That went better than expected.""","Let's break down the statement ""That went better than expected.""
+
+1. **Literal Meaning:**"
+C3_12_L_NI,low,non-ironic,That went better than expected.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That went better than expected.""","Let's break down the statement ""That went better than expected.""
+
+1. **Literal Meaning:**"
+C3_12_H_I,high,ironic,That went better than expected.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That went better than expected.""","Let's analyze the statement ""That went better than expected.""
+
+1. **Literal Meaning:**"
+C3_12_H_NI,high,non-ironic,That went better than expected.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That went better than expected.""","Let's analyze the statement ""That went better than expected.""
+
+1. **Literal Meaning:**"
+C3_13_L_I,low,ironic,What an absolute pleasure.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""What an absolute pleasure.""","Let's break down the statement ""What an absolute pleasure.""
+
+1. **Literal Meaning:**"
+C3_13_L_NI,low,non-ironic,What an absolute pleasure.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""What an absolute pleasure.""","Let's break down the statement ""What an absolute pleasure.""
+
+1. **Literal Meaning:**"
+C3_13_H_I,high,ironic,What an absolute pleasure.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What an absolute pleasure.""","Let's analyze the statement ""What an absolute pleasure.""
+
+1. **Literal Meaning:**
+   The"
+C3_13_H_NI,high,non-ironic,What an absolute pleasure.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What an absolute pleasure.""","Let's analyze the statement ""What an absolute pleasure.""
+
+1. **Literal Meaning:**
+   The"
+C3_14_L_I,low,ironic,I am thrilled this happened.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am thrilled this happened.""","Let's break down the statement ""I am thrilled this happened.""
+
+1. **Literal Meaning:**"
+C3_14_L_NI,low,non-ironic,I am thrilled this happened.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am thrilled this happened.""","Let's break down the statement ""I am thrilled this happened.""
+
+1. **Literal Meaning:**"
+C3_14_H_I,high,ironic,I am thrilled this happened.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am thrilled this happened.""","Let's analyze the statement ""I am thrilled this happened.""
+
+1. **Literal Meaning:**"
+C3_14_H_NI,high,non-ironic,I am thrilled this happened.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am thrilled this happened.""","Let's analyze the statement ""I am thrilled this happened.""
+
+1. **Literal Meaning:**"
+C3_15_L_I,low,ironic,This is going to be fine.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""This is going to be fine.""","Let's break down the statement ""This is going to be fine."" 
+
+1. **Literal Meaning"
+C3_15_L_NI,low,non-ironic,This is going to be fine.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""This is going to be fine.""","Let's break down the statement ""This is going to be fine."" 
+
+1. **Literal Meaning"
+C3_15_H_I,high,ironic,This is going to be fine.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""This is going to be fine.""","Let's analyze the statement ""This is going to be fine."" 
+
+1. **Literal Meaning:"
+C3_15_H_NI,high,non-ironic,This is going to be fine.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""This is going to be fine.""","Let's analyze the statement ""This is going to be fine."" 
+
+1. **Literal Meaning:"
+C3_16_L_I,low,ironic,I am so lucky to be here.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am so lucky to be here.""","Let's break down the statement ""I am so lucky to be here.""
+
+1. **Literal Meaning"
+C3_16_L_NI,low,non-ironic,I am so lucky to be here.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am so lucky to be here.""","Let's break down the statement ""I am so lucky to be here.""
+
+1. **Literal Meaning"
+C3_16_H_I,high,ironic,I am so lucky to be here.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am so lucky to be here.""","Let's analyze the statement ""I am so lucky to be here.""
+
+1. **Literal Meaning:"
+C3_16_H_NI,high,non-ironic,I am so lucky to be here.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am so lucky to be here.""","Let's analyze the statement ""I am so lucky to be here.""
+
+1. **Literal Meaning:"
+C3_17_L_I,low,ironic,That was exactly the right call.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That was exactly the right call.""","Let's break down the statement ""That was exactly the right call.""
+
+1. **Literal Meaning:"
+C3_17_L_NI,low,non-ironic,That was exactly the right call.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That was exactly the right call.""","Let's break down the statement ""That was exactly the right call.""
+
+1. **Literal Meaning:"
+C3_17_H_I,high,ironic,That was exactly the right call.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That was exactly the right call.""","Let's analyze the statement ""That was exactly the right call.""
+
+1. **Literal Meaning:**"
+C3_17_H_NI,high,non-ironic,That was exactly the right call.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That was exactly the right call.""","Let's analyze the statement ""That was exactly the right call.""
+
+1. **Literal Meaning:**"
+C3_18_L_I,low,ironic,What a fantastic outcome.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""What a fantastic outcome.""","Let's break down the statement ""What a fantastic outcome.""
+
+1. **Literal Meaning:**"
+C3_18_L_NI,low,non-ironic,What a fantastic outcome.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""What a fantastic outcome.""","Let's break down the statement ""What a fantastic outcome.""
+
+1. **Literal Meaning:**"
+C3_18_H_I,high,ironic,What a fantastic outcome.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What a fantastic outcome.""","Let's analyze the statement ""What a fantastic outcome.""
+
+1. **Literal Meaning:**
+   The"
+C3_18_H_NI,high,non-ironic,What a fantastic outcome.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What a fantastic outcome.""","Let's analyze the statement ""What a fantastic outcome.""
+
+1. **Literal Meaning:**
+   The"
+C3_19_L_I,low,ironic,I would do this again in a heartbeat.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I would do this again in a heartbeat.""","Let's break down the statement ""I would do this again in a heartbeat.""
+
+1. **Literal"
+C3_19_L_NI,low,non-ironic,I would do this again in a heartbeat.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I would do this again in a heartbeat.""","Let's break down the statement ""I would do this again in a heartbeat.""
+
+1. **Literal"
+C3_19_H_I,high,ironic,I would do this again in a heartbeat.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I would do this again in a heartbeat.""","Let's analyze the statement ""I would do this again in a heartbeat.""
+
+1. **Literal Meaning"
+C3_19_H_NI,high,non-ironic,I would do this again in a heartbeat.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I would do this again in a heartbeat.""","Let's analyze the statement ""I would do this again in a heartbeat.""
+
+1. **Literal Meaning"
+C3_20_L_I,low,ironic,What a refreshing change.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""What a refreshing change.""","Let's break down the statement ""What a refreshing change.""
+
+1. **Literal Meaning:**"
+C3_20_L_NI,low,non-ironic,What a refreshing change.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What a refreshing change.""","Let's break down the statement ""What a refreshing change.""
+
+1. **Literal Meaning:**"
+C3_20_H_I,high,ironic,What a refreshing change.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What a refreshing change.""","Let's analyze the statement ""What a refreshing change.""
+
+1. **Literal Meaning:**
+   The"
+C3_20_H_NI,high,non-ironic,What a refreshing change.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""What a refreshing change.""","Let's analyze the statement ""What a refreshing change.""
+
+1. **Literal Meaning:**
+   The"
+C3_21_L_I,low,ironic,This is working out perfectly.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+ 
+Is the following statement ironic? Answer with yes or no.
+  ""This is working out perfectly.""","Let's break down the statement ""This is working out perfectly.""
+
+1. **Literal meaning of the"
+C3_21_L_NI,low,non-ironic,This is working out perfectly.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+ 
+Is the following statement ironic? Answer with yes or no.
+  ""This is working out perfectly.""","Let's break down the statement ""This is working out perfectly.""
+
+1. **Literal meaning of the"
+C3_21_H_I,high,ironic,This is working out perfectly.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""This is working out perfectly.""","Let's analyze the statement ""This is working out perfectly.""
+
+1. **Literal Meaning:**"
+C3_21_H_NI,high,non-ironic,This is working out perfectly.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""This is working out perfectly.""","Let's analyze the statement ""This is working out perfectly.""
+
+1. **Literal Meaning:**"
+C3_22_L_I,low,ironic,"Well, that was enlightening.","Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+ 
+Is the following statement ironic? Answer with yes or no.
+  ""Well, that was enlightening.""","Let's break down the statement ""Well, that was enlightening.""
+
+1. **Literal Meaning:"
+C3_22_L_NI,low,non-ironic,"Well, that was enlightening.","Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+ 
+Is the following statement ironic? Answer with yes or no.
+  ""Well, that was enlightening.""","Let's break down the statement ""Well, that was enlightening.""
+
+1. **Literal Meaning:"
+C3_22_H_I,high,ironic,"Well, that was enlightening.","Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""Well, that was enlightening.""","Let's analyze the statement ""Well, that was enlightening.""
+
+1. **Literal Meaning:**"
+C3_22_H_NI,high,non-ironic,"Well, that was enlightening.","Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""Well, that was enlightening.""","Let's analyze the statement ""Well, that was enlightening.""
+
+1. **Literal Meaning:**"
+C3_23_L_I,low,ironic,I have never felt more appreciated.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I have never felt more appreciated.""","Let's break down the statement ""I have never felt more appreciated.""
+
+1. **Literal Meaning:"
+C3_23_L_NI,low,non-ironic,I have never felt more appreciated.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I have never felt more appreciated.""","Let's break down the statement ""I have never felt more appreciated.""
+
+1. **Literal Meaning:"
+C3_23_H_I,high,ironic,I have never felt more appreciated.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I have never felt more appreciated.""","Let's analyze the statement ""I have never felt more appreciated.""
+
+1. **Literal Meaning:**"
+C3_23_H_NI,high,non-ironic,I have never felt more appreciated.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I have never felt more appreciated.""","Let's analyze the statement ""I have never felt more appreciated.""
+
+1. **Literal Meaning:**"
+C3_24_L_I,low,ironic,That was a real confidence boost.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That was a real confidence boost.""","Let's break down the statement ""That was a real confidence boost.""
+
+1. **Literal Meaning:"
+C3_24_L_NI,low,non-ironic,That was a real confidence boost.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""That was a real confidence boost.""","Let's break down the statement ""That was a real confidence boost.""
+
+1. **Literal Meaning:"
+C3_24_H_I,high,ironic,That was a real confidence boost.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That was a real confidence boost.""","Let's analyze the statement ""That was a real confidence boost.""
+
+1. **Literal Meaning:**"
+C3_24_H_NI,high,non-ironic,That was a real confidence boost.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""That was a real confidence boost.""","Let's analyze the statement ""That was a real confidence boost.""
+
+1. **Literal Meaning:**"
+C3_25_L_I,low,ironic,I am so glad someone finally explained that to me.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am so glad someone finally explained that to me.""","Let's break down the statement ""I am so glad someone finally explained that to me.""
+
+1."
+C3_25_L_NI,low,non-ironic,I am so glad someone finally explained that to me.,"Consider the following before answering:
+ (1) What do the individual words in this statement literally mean?
+ (2) Taking the words at face value, does the statement describe something positive or negative?
+ (3) Based purely on the meaning of the words, what is the most straightforward interpretation?
+
+Is the following statement ironic? Answer with yes or no.
+  ""I am so glad someone finally explained that to me.""","Let's break down the statement ""I am so glad someone finally explained that to me.""
+
+1."
+C3_25_H_I,high,ironic,I am so glad someone finally explained that to me.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am so glad someone finally explained that to me.""","Let's analyze the statement:
+
+1. **Literal Meaning:**
+   The speaker literally says, """
+C3_25_H_NI,high,non-ironic,I am so glad someone finally explained that to me.,"Consider the following before answering:
+  (1) What did the speaker literally say?
+  (2) What situation would make this statement sincerely true versus untrue?
+  (3) What would a listener familiar with how language is used infer about the speaker's actual intended meaning?
+ 
+ Is the following statement ironic? Answer with yes or no.
+  ""I am so glad someone finally explained that to me.""","Let's analyze the statement:
+
+1. **Literal Meaning:**
+   The speaker literally says, """

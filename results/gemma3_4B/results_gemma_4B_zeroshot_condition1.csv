@@ -1,0 +1,485 @@
+item_id,context-level,irony_label,basic_utterance,full_prompt,model_output
+C1_01_L,low,ironic,What a great start to the day.,"Is the following statement ironic? Answer with yes or no. 
+""What a great start to the day.""","Yes. 
+
+It's ironic if the day has actually started poorly. Saying ""What a"
+C1_01_L_NI,low,non-ironic,What a great start to the day.,"Is the following statement ironic? Answer with yes or no. 
+""What a great start to the day.""","Yes. 
+
+It's ironic if the day has actually started poorly. Saying ""What a"
+C1_01_H,high,ironic,What a great start to the day.,"Is the following statement ironic? Answer with yes or no. 
+""The alarm didn't go off, the milk was sour, and it started raining on the walk to work. What a great start to the day.""","Yes. 
+
+The events described – a malfunctioning alarm, spoiled milk, and rain – are all"
+C1_01_H_NI,high,non-ironic,What a great start to the day.,"Is the following statement ironic? Answer with yes or no. 
+""Got promoted, had great coffee, the sun was out, and ran into an old friend. What a great start to the day.""","Yes.
+
+The statement describes a series of positive events – a promotion, good coffee, sunshine,"
+C1_02_L,low,ironic,That went really smoothly.,"Is the following statement ironic? Answer with yes or no. 
+""That went really smoothly.""","Yes. 
+
+The statement ""That went really smoothly"" is often ironic when used after something clearly"
+C1_02_L_NI,low,non-ironic,That went really smoothly.,"Is the following statement ironic? Answer with yes or no. 
+""That went really smoothly.""","Yes. 
+
+The statement ""That went really smoothly"" is often ironic when used after something clearly"
+C1_02_H,high,ironic,That went really smoothly.,"Is the following statement ironic? Answer with yes or no. 
+""The presentation crashed halfway through, the client left early, and the projector caught fire. That went really smoothly.""","Yes. 
+
+The events described are the *opposite* of what would be considered a smooth presentation"
+C1_02_H_NI,high,non-ironic,That went really smoothly.,"Is the following statement ironic? Answer with yes or no. 
+""The client loved every slide, signed the contract on the spot, and asked for a follow-up meeting. That went really smoothly.""","Yes.
+
+The statement implies a highly successful and positive experience, but the underlying context (likely a"
+C1_03_L,low,ironic,This is exactly what I needed today.,"Is the following statement ironic? Answer with yes or no. 
+""This is exactly what I needed today.""","Yes.
+
+It's ironic when someone says something like that in a situation that is clearly undesirable"
+C1_03_L_NI,low,non-ironic,This is exactly what I needed today.,"Is the following statement ironic? Answer with yes or no. 
+""This is exactly what I needed today.""","Yes.
+
+It's ironic when someone says something like that in a situation that is clearly undesirable"
+C1_03_H,high,ironic,This is exactly what I needed today.,"Is the following statement ironic? Answer with yes or no. 
+""My computer crashed right before the deadline, I lost three hours of work, and the backup failed. This is exactly what I needed today.""","Yes. 
+
+The statement expresses a positive sentiment (""exactly what I needed"") in response to a"
+C1_03_H_NI,high,non-ironic,This is exactly what I needed today.,"Is the following statement ironic? Answer with yes or no. 
+""My manager approved my holiday request, gave me a pay raise, and said I was their best employee. This is exactly what I needed today.""","Yes.
+
+The statement expresses a feeling of needing something positive, and then lists a series of incredibly"
+C1_04_L,low,ironic,What a wonderful surprise.,"Is the following statement ironic? Answer with yes or no. 
+""What a wonderful surprise.""","Yes. 
+
+The phrase ""What a wonderful surprise"" is often used ironically when something unexpected and"
+C1_04_L_NI,low,non-ironic,What a wonderful surprise.,"Is the following statement ironic? Answer with yes or no. 
+""What a wonderful surprise.""","Yes. 
+
+The phrase ""What a wonderful surprise"" is often used ironically when something unexpected and"
+C1_04_H,high,ironic,What a wonderful surprise.,"Is the following statement ironic? Answer with yes or no. 
+""My flight was cancelled, I missed the wedding, and my luggage was lost. What a wonderful surprise.""","Yes. 
+
+The statement expresses a positive sentiment (""What a wonderful surprise"") in response to a"
+C1_04_H_NI,high,non-ironic,What a wonderful surprise.,"Is the following statement ironic? Answer with yes or no. 
+""My friends threw me an unexpected birthday party, baked my favourite cake, and invited everyone I love. What a wonderful surprise.""","No.
+
+The statement expresses genuine delight and appreciation for a wonderful surprise. Irony would require a"
+C1_05_L,low,ironic,This is my favourite kind of meeting.,"Is the following statement ironic? Answer with yes or no. 
+""This is my favourite kind of meeting.""","Yes. 
+
+It's ironic because meetings are often perceived as tedious and disliked. Saying it"
+C1_05_L_NI,low,non-ironic,This is my favourite kind of meeting.,"Is the following statement ironic? Answer with yes or no. 
+""This is my favourite kind of meeting.""","Yes. 
+
+It's ironic because meetings are often perceived as tedious and disliked. Saying it"
+C1_05_H,high,ironic,This is my favourite kind of meeting.,"Is the following statement ironic? Answer with yes or no. 
+""The meeting was scheduled for 8am on a Friday, ran two hours over, and covered nothing in the agenda. This is my favourite kind of meeting.""","Yes. 
+
+The statement expresses enjoyment of a terrible meeting experience, which is inherently ironic because no"
+C1_05_H_NI,high,non-ironic,This is my favourite kind of meeting.,"Is the following statement ironic? Answer with yes or no. 
+""The meeting lasted twenty minutes, resolved every open issue, and ended with a team lunch on the company. This is my favourite kind of meeting.""","Yes. 
+
+The statement describes a remarkably efficient and positive meeting experience – the *opposite* of"
+C1_06_L,low,ironic,I love this weather.,"Is the following statement ironic? Answer with yes or no. 
+""I love this weather.""","Yes.
+
+It's ironic if the weather is terrible (e.g., raining heavily,"
+C1_06_L_NI,low,non-ironic,I love this weather.,"Is the following statement ironic? Answer with yes or no. 
+""I love this weather.""","Yes.
+
+It's ironic if the weather is terrible (e.g., raining heavily,"
+C1_06_M,high,ironic,I love this weather.,"Is the following statement ironic? Answer with yes or no. 
+""It has been raining nonstop for four days, the basement flooded, and my umbrella broke. I love this weather.""","Yes. 
+
+The statement expresses love for terrible weather conditions (nonstop rain, flooding, broken"
+C1_06_M_NI,high,non-ironic,I love this weather.,"Is the following statement ironic? Answer with yes or no. 
+""It is sunny and warm with a light breeze and the forecast says it will last all week. I love this weather.""","Yes. 
+
+The statement expresses love for the weather, but the forecast predicting it will last all"
+C1_07_H,low,ironic,That was efficient.,"Is the following statement ironic? Answer with yes or no. 
+""That was efficient.""","Yes.
+
+The statement ""That was efficient"" is often ironic when used to describe a situation that"
+C1_07_H_NI,low,non-ironic,That was efficient.,"Is the following statement ironic? Answer with yes or no. 
+""That was efficient.""","Yes.
+
+The statement ""That was efficient"" is often ironic when used to describe a situation that"
+C1_07_M,high,ironic,That was efficient.,"Is the following statement ironic? Answer with yes or no. 
+""It took three attempts, two explanations, a full restart, and an hour on hold with support. That was efficient.""","Yes. 
+
+The description of the process is clearly *not* efficient, making the statement ironic"
+C1_07_M_NI,high,non-ironic,That was efficient.,"Is the following statement ironic? Answer with yes or no. 
+""The whole process was done in under ten minutes with no errors and no waiting. That was efficient.""","Yes.
+
+The statement describes a highly efficient process, but the implied expectation of a complex or lengthy"
+C1_08_H,low,ironic,What a productive day.,"Is the following statement ironic? Answer with yes or no. 
+""What a productive day.""","Yes. 
+
+It's ironic if the speaker is actually having a very unproductive day. Saying"
+C1_08_H_NI,low,non-ironic,What a productive day.,"Is the following statement ironic? Answer with yes or no. 
+""What a productive day.""","Yes. 
+
+It's ironic if the speaker is actually having a very unproductive day. Saying"
+C1_08_M,high,ironic,What a productive day.,"Is the following statement ironic? Answer with yes or no. 
+""I spent four hours in back-to-back meetings, finished nothing, and then my laptop died. What a productive day.""","Yes. 
+
+The statement expresses a feeling of productivity while describing a day of complete lack of productivity"
+C1_08_M_NI,high,non-ironic,What a productive day.,"Is the following statement ironic? Answer with yes or no. 
+""I finished all my tasks before lunch, had time for a walk, and got positive feedback from my manager. What a productive day.""","No. 
+
+The statement describes a genuinely positive and productive day. There's no inherent contradiction"
+C1_09_H,low,ironic,That was a relaxing holiday.,"Is the following statement ironic? Answer with yes or no. 
+""That was a relaxing holiday.""","This could be ironic. 
+
+**Yes** 
+
+It's ironic if the holiday was"
+C1_09_H_NI,low,non-ironic,That was a relaxing holiday.,"Is the following statement ironic? Answer with yes or no. 
+""That was a relaxing holiday.""","This could be ironic. 
+
+**Yes** 
+
+It's ironic if the holiday was"
+C1_09_M,high,ironic,That was a relaxing holiday.,"Is the following statement ironic? Answer with yes or no. 
+""The hotel overbooked, we slept on a fold-out cot, and it rained every single day. That was a relaxing holiday.""","Yes. 
+
+The description of a miserable experience (overbooked hotel, cot sleeping, constant rain"
+C1_09_M_NI,high,non-ironic,That was a relaxing holiday.,"Is the following statement ironic? Answer with yes or no. 
+""We had a sea-view room, spent every day at the beach, and came home feeling completely rested. That was a relaxing holiday.""","Yes. 
+
+The irony lies in the expectation that a sea-view room and daily beach visits"
+C1_10_L,low,ironic,I really enjoyed that meal.,"Is the following statement ironic? Answer with yes or no. 
+""I really enjoyed that meal.""","No.
+
+It's a straightforward statement of enjoyment. Irony requires a contrast between expectation and"
+C1_10_L_NI,low,non-ironic,I really enjoyed that meal.,"Is the following statement ironic? Answer with yes or no. 
+""I really enjoyed that meal.""","No.
+
+It's a straightforward statement of enjoyment. Irony requires a contrast between expectation and"
+C1_10_H,high,ironic,I really enjoyed that meal.,"Is the following statement ironic? Answer with yes or no. 
+""The food arrived cold, the waiter spilled soup on me, and they charged me for the wrong dish. I really enjoyed that meal.""","Yes. 
+
+The experiences described are overwhelmingly negative, yet the speaker claims to have ""really enjoyed"
+C1_10_H_NI,high,non-ironic,I really enjoyed that meal.,"Is the following statement ironic? Answer with yes or no. 
+""The food was fresh, perfectly seasoned, beautifully presented, and the dessert was complimentary. I really enjoyed that meal.""","No. 
+
+The statement describes a genuinely positive and enjoyable dining experience. There's no inherent"
+C1_11_L,low,ironic,That was a great use of my time.,"Is the following statement ironic? Answer with yes or no. 
+""That was a great use of my time.""","Yes. 
+
+It's ironic because saying ""That was a great use of my time"""
+C1_11_L_NI,low,non-ironic,That was a great use of my time.,"Is the following statement ironic? Answer with yes or no. 
+""That was a great use of my time.""","Yes. 
+
+It's ironic because saying ""That was a great use of my time"""
+C1_11_H,high,ironic,That was a great use of my time.,"Is the following statement ironic? Answer with yes or no.
+""I waited forty minutes for an appointment that lasted two minutes and told me nothing I didn't already know. That was a great use of my time.""","Yes. 
+
+The statement expresses satisfaction (""That was a great use of my time"") despite a"
+C1_11_H_NI,high,non-ironic,That was a great use of my time.,"Is the following statement ironic? Answer with yes or no.
+""The workshop covered exactly what I needed, I left with three new skills, and I met two potential collaborators. That was a great use of my time.""","No.
+
+The statement expresses genuine satisfaction and a positive assessment of the workshop. Irony would require"
+C1_12_L,low,ironic,This software is really user-friendly.,"Is the following statement ironic? Answer with yes or no. 
+""This software is really user-friendly.""","This depends on the context! 
+
+It *could* be ironic. If the software is notoriously"
+C1_12_L_NI,low,non-ironic,This software is really user-friendly.,"Is the following statement ironic? Answer with yes or no. 
+""This software is really user-friendly.""","This depends on the context! 
+
+It *could* be ironic. If the software is notoriously"
+C1_12_H,high,ironic,This software is really user-friendly.,"Is the following statement ironic? Answer with yes or no. 
+""It crashed on the first try, the manual is 300 pages, and the support line was disconnected. This software is really user-friendly.""","Yes. 
+
+The description highlights a series of frustrating and difficult experiences – a crash, a massive"
+C1_12_H_NI,high,non-ironic,This software is really user-friendly.,"Is the following statement ironic? Answer with yes or no. 
+""I had it set up in five minutes, the interface is intuitive, and there are helpful tooltips on every button. This software is really user-friendly.""","Yes.
+
+The statement describes a very easy and pleasant experience, which is ironic if the software is"
+C1_13_L,low,ironic,That exam went well.,"Is the following statement ironic? Answer with yes or no. 
+""That exam went well.""","Yes. 
+
+Without further context, the statement ""That exam went well"" is often ironic when"
+C1_13_L_NI,low,non-ironic,That exam went well.,"Is the following statement ironic? Answer with yes or no. 
+""That exam went well.""","Yes. 
+
+Without further context, the statement ""That exam went well"" is often ironic when"
+C1_13_L,high,ironic,That exam went well.,"Is the following statement ironic? Answer with yes or no. 
+""I forgot to study, ran out of time on every section, and accidentally submitted the wrong file. That exam went well.""","Yes. 
+
+The events described – forgetting to study, failing to finish on time, and submitting"
+C1_13_L_NI,high,non-ironic,That exam went well.,"Is the following statement ironic? Answer with yes or no. 
+""I had studied all week, finished with time to spare, and felt confident about every answer. That exam went well.""","No. 
+
+The statement describes a positive outcome (the exam going well) following preparation and confidence"
+C1_14_M,low,ironic,What a smooth commute.,"Is the following statement ironic? Answer with yes or no. 
+""What a smooth commute.""","Yes. 
+
+It's ironic if the commute was actually *not* smooth – perhaps it"
+C1_14_M_NI,low,non-ironic,What a smooth commute.,"Is the following statement ironic? Answer with yes or no. 
+""What a smooth commute.""","Yes. 
+
+It's ironic if the commute was actually *not* smooth – perhaps it"
+C1_14_L,high,ironic,What a smooth commute.,"Is the following statement ironic? Answer with yes or no. 
+""There were two delays, a signal failure, I had to stand the whole way, and missed my connection. What a smooth commute.""","Yes. 
+
+The statement describes a very *un*smooth commute, and then calls it """
+C1_14_L_NI,high,non-ironic,What a smooth commute.,"Is the following statement ironic? Answer with yes or no. 
+""The train was on time, I got a seat by the window, and arrived ten minutes early. What a smooth commute.""","Yes.
+
+The statement describes a *perfect* commute, which is ironic because commutes are almost universally"
+C1_15_M,low,ironic,That party was so much fun.,"Is the following statement ironic? Answer with yes or no. 
+""That party was so much fun.""","This depends entirely on the context! 
+
+Without knowing *why* the party wasn't fun"
+C1_15_M_NI,low,non-ironic,That party was so much fun.,"Is the following statement ironic? Answer with yes or no. 
+""That party was so much fun.""","This depends entirely on the context! 
+
+Without knowing *why* the party wasn't fun"
+C1_15_L,high,ironic,That party was so much fun.,"Is the following statement ironic? Answer with yes or no. 
+""Nobody showed up, the music broke, and the food ran out within ten minutes. That party was so much fun.""","Yes. 
+
+The description of a terrible party experience (nobody showed up, equipment failure, food"
+C1_15_L,high,non-ironic,That party was so much fun.,"Is the following statement ironic? Answer with yes or no. 
+""Everyone came, we danced until midnight, and it ended with a surprise fireworks display. That party was so much fun.""","Yes.
+
+Here's why: The statement describes a very celebratory and joyful event (everyone coming"
+C1_16_L_I,low,ironic,That was a brilliant idea.,"Is the following statement ironic? Answer with yes or no. 
+""That was a brilliant idea.""","This depends entirely on the context! 
+
+Without knowing *why* someone said ""That was a"
+C1_16_L_NI,low,non-ironic,That was a brilliant idea.,"Is the following statement ironic? Answer with yes or no. 
+""That was a brilliant idea.""","This depends entirely on the context! 
+
+Without knowing *why* someone said ""That was a"
+C1_16_H_I,high,ironic,That was a brilliant idea.,"Is the following statement ironic? Answer with yes or no. 
+""He suggested skipping the safety checks to save time, and the whole system crashed within an hour. That was a brilliant idea.""","Yes. 
+
+The statement is ironic because suggesting to skip safety checks to save time directly led to"
+C1_16_H_NI,high,non-ironic,That was a brilliant idea.,"Is the following statement ironic? Answer with yes or no. 
+""She proposed a shortcut that saved the team two days of work and impressed the entire department. That was a brilliant idea.""","Yes.
+
+Here's why: The irony lies in the fact that a ""shortcut"" often"
+C1_17_L_I,low,ironic,I am so happy with this result.,"Is the following statement ironic? Answer with yes or no. 
+""I am so happy with this result.""","Potentially yes. 
+
+It depends entirely on the context. If the ""result"" is something"
+C1_17_L_NI,low,non-ironic,I am so happy with this result.,"Is the following statement ironic? Answer with yes or no. 
+""I am so happy with this result.""","Potentially yes. 
+
+It depends entirely on the context. If the ""result"" is something"
+C1_17_H_I,high,ironic,I am so happy with this result.,"Is the following statement ironic? Answer with yes or no. 
+""I studied for weeks, stayed up all night, and still failed the test by one mark. I am so happy with this result.""","Yes. 
+
+The statement expresses happiness about a disappointing outcome – failing a test after significant effort."
+C1_17_H_NI,high,non-ironic,I am so happy with this result.,"Is the following statement ironic? Answer with yes or no. 
+""I put in months of hard work and came out with the highest grade in my cohort. I am so happy with this result.""","No. 
+
+The statement describes a positive outcome (highest grade) resulting from hard work, and"
+C1_18_L_I,low,ironic,What a kind thing to do.,"Is the following statement ironic? Answer with yes or no. 
+""What a kind thing to do.""","Yes. 
+
+Ironic statements often involve saying the opposite of what is meant. Saying ""What"
+C1_18_L_NI,low,non-ironic,What a kind thing to do.,"Is the following statement ironic? Answer with yes or no. 
+""What a kind thing to do.""","Yes. 
+
+Ironic statements often involve saying the opposite of what is meant. Saying ""What"
+C1_18_H_I,high,ironic,What a kind thing to do.,"Is the following statement ironic? Answer with yes or no. 
+""He told everyone at the party about my personal problems without asking me first. What a kind thing to do.""","Yes. 
+
+The statement ""What a kind thing to do"" is directly contradicted by the action"
+C1_18_H_NI,high,non-ironic,What a kind thing to do.,"Is the following statement ironic? Answer with yes or no. 
+""She dropped off a home-cooked meal at my door when she heard I was unwell. What a kind thing to do.""","Yes.
+
+The irony lies in the fact that dropping off a meal is a *reaction* to"
+C1_19_L_I,low,ironic,This is the perfect time for this.,"Is the following statement ironic? Answer with yes or no. 
+""This is the perfect time for this.""","Potentially yes. 
+
+It depends heavily on the context. The statement is often used ironically when"
+C1_19_L_NI,low,non-ironic,This is the perfect time for this.,"Is the following statement ironic? Answer with yes or no. 
+""This is the perfect time for this.""","Potentially yes. 
+
+It depends heavily on the context. The statement is often used ironically when"
+C1_19_H_I,high,ironic,This is the perfect time for this.,"Is the following statement ironic? Answer with yes or no. 
+""The internet cut out mid-presentation, the slides vanished, and the client had already started leaving. This is the perfect time for this.""","Yes. 
+
+The statement expresses a sentiment (""perfect time"") that is directly contradictory to the disastrous"
+C1_19_H_NI,high,non-ironic,This is the perfect time for this.,"Is the following statement ironic? Answer with yes or no. 
+""Everyone was settled, the room was quiet, and we had a full hour with no interruptions. This is the perfect time for this.""","Yes. 
+
+The statement describes a *perfect* time for something, but the implication is that"
+C1_20_L_I,low,ironic,That driver was so considerate.,"Is the following statement ironic? Answer with yes or no. 
+""That driver was so considerate.""","Yes.
+
+Here's why: Saying someone is ""considerate"" usually implies good behavior."
+C1_20_L_NI,low,non-ironic,That driver was so considerate.,"Is the following statement ironic? Answer with yes or no. 
+""That driver was so considerate.""","Yes.
+
+Here's why: Saying someone is ""considerate"" usually implies good behavior."
+C1_20_H_I,high,ironic,That driver was so considerate.,"Is the following statement ironic? Answer with yes or no. 
+""He cut across three lanes without indicating and then honked at me for using the road. That driver was so considerate.""","Yes. 
+
+The statement describes a driver who acted inconsiderately (cutting lanes and then honking"
+C1_20_H_NI,high,non-ironic,That driver was so considerate.,"Is the following statement ironic? Answer with yes or no. 
+""She slowed down to let me merge and gave a friendly wave as I pulled in. That driver was so considerate.""","Yes.
+
+The statement describes a considerate driver, but the implied irony is that the driver likely slowed"
+C1_21_L_I,low,ironic,This is such a well-designed product.,"Is the following statement ironic? Answer with yes or no. 
+""This is such a well-designed product.""","Potentially yes. 
+
+It depends on the context. If the product is clearly poorly designed and"
+C1_21_L_NI,low,non-ironic,This is such a well-designed product.,"Is the following statement ironic? Answer with yes or no. 
+""This is such a well-designed product.""","Potentially yes. 
+
+It depends on the context. If the product is clearly poorly designed and"
+C1_21_H_I,high,ironic,This is such a well-designed product.,"Is the following statement ironic? Answer with yes or no. 
+""The instructions were missing, three parts were broken, and there was no customer service number to call. This is such a well-designed product.""","Yes. 
+
+The description of terrible product quality directly contradicts the statement of it being ""well-"
+C1_21_H_NI,high,non-ironic,This is such a well-designed product.,"Is the following statement ironic? Answer with yes or no. 
+""Everything was clearly labelled, snapped together in minutes, and came with a thorough illustrated guide. This is such a well-designed product.""","Yes.
+
+The statement describes a product that is *so* well-designed it’s ridiculously"
+C1_22_L_I,low,ironic,I am really enjoying this queue.,"Is the following statement ironic? Answer with yes or no. 
+""I am really enjoying this queue.""","Yes.
+
+Queuing is generally considered unpleasant, so saying you're ""really enjoying it"""
+C1_22_L_NI,low,non-ironic,I am really enjoying this queue.,"Is the following statement ironic? Answer with yes or no. 
+""I am really enjoying this queue.""","Yes.
+
+Queuing is generally considered unpleasant, so saying you're ""really enjoying it"""
+C1_22_H_I,high,ironic,I am really enjoying this queue.,"Is the following statement ironic? Answer with yes or no. 
+""I have been standing here for forty-five minutes and the line has barely moved. I am really enjoying this queue.""","Yes. 
+
+The statement expresses enjoyment while simultaneously describing a frustrating and unproductive experience (a long,"
+C1_22_H_NI,high,non-ironic,I am really enjoying this queue.,"Is the following statement ironic? Answer with yes or no. 
+""There are only three people ahead of me and a barista just brought everyone a free sample. I am really enjoying this queue.""","Yes.
+
+The statement expresses enjoyment of a queue (which is typically unpleasant), while the situation ("
+C1_23_L_I,low,ironic,What an easy fix.,"Is the following statement ironic? Answer with yes or no. 
+""What an easy fix.""","Yes. 
+
+The statement ""What an easy fix"" is often ironic when referring to a problem"
+C1_23_L_NI,low,non-ironic,What an easy fix.,"Is the following statement ironic? Answer with yes or no. 
+""What an easy fix.""","Yes. 
+
+The statement ""What an easy fix"" is often ironic when referring to a problem"
+C1_23_H_I,high,ironic,What an easy fix.,"Is the following statement ironic? Answer with yes or no. 
+""The technician spent six hours on it, ordered three replacement parts, and still could not work out what was wrong. What an easy fix.""","Yes. 
+
+The statement highlights a frustrating and difficult situation (six hours, multiple parts, still"
+C1_23_H_NI,high,non-ironic,What an easy fix.,"Is the following statement ironic? Answer with yes or no. 
+""It turned out to be a loose cable and the whole thing was up and running in under five minutes. What an easy fix.""","Yes. 
+
+The statement expresses surprise and ease (""What an easy fix"") about a problem that"
+C1_24_L_I,low,ironic,That speech was memorable.,"Is the following statement ironic? Answer with yes or no. 
+""That speech was memorable.""","No.
+
+While a speech *could* be memorable for bad reasons (e.g., it"
+C1_24_L_NI,low,non-ironic,That speech was memorable.,"Is the following statement ironic? Answer with yes or no. 
+""That speech was memorable.""","No.
+
+While a speech *could* be memorable for bad reasons (e.g., it"
+C1_24_H_I,high,ironic,That speech was memorable.,"Is the following statement ironic? Answer with yes or no. 
+""The speaker lost their place three times, went twenty minutes over time, and the microphone kept cutting out. That speech was memorable.""","Yes. 
+
+The events described – losing the place repeatedly, going over time, and technical difficulties"
+C1_24_H_NI,high,non-ironic,That speech was memorable.,"Is the following statement ironic? Answer with yes or no. 
+""The audience gave a standing ovation and several people said it was the best talk they had ever attended. That speech was memorable.""","Yes. 
+
+The statement implies the speech was exceptionally good, deserving of a standing ovation and widespread"
+C1_25_L_I,low,ironic,I love being kept waiting.,"Is the following statement ironic? Answer with yes or no. 
+""I love being kept waiting.""","Yes.
+
+It’s ironic because no one genuinely *likes* being kept waiting. The statement"
+C1_25_L_NI,low,non-ironic,I love being kept waiting.,"Is the following statement ironic? Answer with yes or no. 
+""I love being kept waiting.""","Yes.
+
+It’s ironic because no one genuinely *likes* being kept waiting. The statement"
+C1_25_H_I,high,ironic,I love being kept waiting.,"Is the following statement ironic? Answer with yes or no. 
+""I arrived on time and sat in the waiting room for an hour and a half before anyone acknowledged me. I love being kept waiting.""","Yes. 
+
+The statement expresses ""love"" for being kept waiting, which is the opposite of"
+C1_25_H_NI,high,non-ironic,I love being kept waiting.,"Is the following statement ironic? Answer with yes or no. 
+""They texted to say they were running five minutes late and had coffee ready for me when I arrived. I love being kept waiting.""","Yes. 
+
+The statement expresses ""loving"" being kept waiting, which is the opposite of how"
+C1_26_L_I,low,ironic,That was a bargain.,"Is the following statement ironic? Answer with yes or no. 
+""That was a bargain.""","Yes.
+
+The statement ""That was a bargain"" is often used ironically when something was actually a"
+C1_26_L_NI,low,non-ironic,That was a bargain.,"Is the following statement ironic? Answer with yes or no. 
+""That was a bargain.""","Yes.
+
+The statement ""That was a bargain"" is often used ironically when something was actually a"
+C1_26_H_I,high,ironic,That was a bargain.,"Is the following statement ironic? Answer with yes or no. 
+""I paid three times the listed price after hidden fees, delivery charges, and a mandatory insurance add-on. That was a bargain.""","Yes. 
+
+The statement is clearly ironic. Paying significantly more than the listed price and then calling"
+C1_26_H_NI,high,non-ironic,That was a bargain.,"Is the following statement ironic? Answer with yes or no. 
+""The item was already half-price and they threw in free shipping and a loyalty discount on top. That was a bargain.""","Yes. 
+
+The statement describes an incredibly generous offer, which contradicts the implied expectation that a """
+C1_27_L_I,low,ironic,What a comfortable journey.,"Is the following statement ironic? Answer with yes or no. 
+""What a comfortable journey.""","Yes. 
+
+The statement ""What a comfortable journey"" is often ironic when said after a particularly"
+C1_27_L_NI,low,non-ironic,What a comfortable journey.,"Is the following statement ironic? Answer with yes or no. 
+""What a comfortable journey.""","Yes. 
+
+The statement ""What a comfortable journey"" is often ironic when said after a particularly"
+C1_27_H_I,high,ironic,What a comfortable journey.,"Is the following statement ironic? Answer with yes or no. 
+""The seats were broken, the heating was stuck on full, and the person behind me kicked my chair the whole way. What a comfortable journey.""","Yes. 
+
+The description of a terrible journey – broken seats, malfunctioning heating, and a disruptive"
+C1_27_H_NI,high,non-ironic,What a comfortable journey.,"Is the following statement ironic? Answer with yes or no. 
+""I had a window seat, plenty of legroom, and slept soundly for most of the four-hour trip. What a comfortable journey.""","Yes.
+
+The statement describes a *comfortable* journey, but the implied situation (a long flight"
+C1_28_L_I,low,ironic,That was a perfectly timed interruption.,"Is the following statement ironic? Answer with yes or no. 
+""That was a perfectly timed interruption.""","Yes.
+
+Ironic statements often involve a situation where the stated sentiment is the opposite of what is"
+C1_28_L_NI,low,non-ironic,That was a perfectly timed interruption.,"Is the following statement ironic? Answer with yes or no. 
+""That was a perfectly timed interruption.""","Yes.
+
+Ironic statements often involve a situation where the stated sentiment is the opposite of what is"
+C1_28_H_I,high,ironic,That was a perfectly timed interruption.,"Is the following statement ironic? Answer with yes or no. 
+""My colleague burst in just as I was delivering the punchline of a story that took ten minutes to set up. That was a perfectly timed interruption.""","Yes. 
+
+The statement describes an interruption that completely ruined the payoff of a long-built-"
+C1_28_H_NI,high,non-ironic,That was a perfectly timed interruption.,"Is the following statement ironic? Answer with yes or no. 
+""My colleague stepped in right as the conversation hit a lull and brought exactly the energy the room needed. That was a perfectly timed interruption.""","Yes. 
+
+The statement describes an interruption as ""perfectly timed,"" which is ironic because interruptions"
+C1_29_L_I,low,ironic,What helpful feedback.,"Is the following statement ironic? Answer with yes or no. 
+""What helpful feedback.""","Yes. 
+
+The phrase ""What helpful feedback"" is often used sarcastically when the feedback"
+C1_29_L_NI,low,non-ironic,What helpful feedback.,"Is the following statement ironic? Answer with yes or no. 
+""What helpful feedback.""","Yes. 
+
+The phrase ""What helpful feedback"" is often used sarcastically when the feedback"
+C1_29_H_I,high,ironic,What helpful feedback.,"Is the following statement ironic? Answer with yes or no. 
+""The reviewer left a single comment saying it was not their style and gave no further explanation. What helpful feedback.""","Yes. 
+
+The statement highlights the *lack* of helpful feedback while simultaneously complaining about it."
+C1_29_H_NI,high,non-ironic,What helpful feedback.,"Is the following statement ironic? Answer with yes or no. 
+""The reviewer went through every section with specific suggestions, examples, and a note about what was working well. What helpful feedback.""","Yes. 
+
+The statement ""What helpful feedback"" is ironic because the preceding description details a *"
+C1_30_L_I,low,ironic,I am so glad I asked for help.,"Is the following statement ironic? Answer with yes or no. 
+""I am so glad I asked for help.""","Yes. 
+
+The statement implies gratitude for seeking help, but the very act of needing help often"
+C1_30_L_NI,low,non-ironic,I am so glad I asked for help.,"Is the following statement ironic? Answer with yes or no. 
+""I am so glad I asked for help.""","Yes. 
+
+The statement implies gratitude for seeking help, but the very act of needing help often"
+C1_30_H_I,high,ironic,I am so glad I asked for help.,"Is the following statement ironic? Answer with yes or no. 
+""The person I asked gave me completely wrong directions and I ended up two kilometres from where I needed to be. I am so glad I asked for help.""","Yes. 
+
+The statement expresses gladness despite receiving completely unhelpful and frustrating assistance. That'"
+C1_30_H_NI,high,non-ironic,I am so glad I asked for help.,"Is the following statement ironic? Answer with yes or no. 
+""The person I asked walked me there themselves, introduced me to the right contact, and saved me hours of searching. I am so glad I asked for help.""","No. 
+
+The statement expresses gratitude for help received, which is the opposite of irony. It"

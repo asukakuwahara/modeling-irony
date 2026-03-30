@@ -1,0 +1,387 @@
+item_id,cg_level,irony_label,base_utterance,full_prompt
+C2_01_L_I,low,ironic,You are such a reliable friend.,"Is the following statement ironic? Answer with yes or no.
+ ""You are such a reliable friend."""
+C2_01_L_NI,low,non-ironic,You are such a reliable friend.,"Is the following statement ironic? Answer with yes or no.
+ ""You are such a reliable friend."""
+C2_01_H_I,high,ironic,You are such a reliable friend.,"Background (known to both): Sam took three days to reply to an urgent message. Both speaker and listener know that reliable friends respond promptly.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are such a reliable friend."""
+C2_01_H_NI,high,non-ironic,You are such a reliable friend.,"Background (known to both): Sam dropped everything and drove over immediately when asked for help. Both speaker and listener know that this is exactly what a reliable friend does.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are such a reliable friend."""
+C2_02_L_I,low,ironic,Thanks for being so punctual as always.,"Is the following statement ironic? Answer with yes or no.
+ ""Thanks for being so punctual as always."""
+C2_02_L_NI,low,non-ironic,Thanks for being so punctual as always.,"Is the following statement ironic? Answer with yes or no.
+ ""Thanks for being so punctual as always."""
+C2_02_H_I,high,ironic,Thanks for being so punctual as always.,"Background (known to both): Alex was supposed to arrive at 9am and showed up at 9:45. Both parties understand that punctuality means arriving on time.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Thanks for being so punctual as always."""
+C2_02_H_NI,high,non-ironic,Thanks for being so punctual as always.,"Background (known to both): Alex arrived ten minutes early and had already set everything up. Both parties understand that punctuality means arriving on time, and Alex consistently does so.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Thanks for being so punctual as always."""
+C2_03_L_I,low,ironic,You really saved the day.,"Is the following statement ironic? Answer with yes or no.
+ ""You really saved the day."""
+C2_03_L_NI,low,non-ironic,You really saved the day.,"Is the following statement ironic? Answer with yes or no.
+ ""You really saved the day."""
+C2_03_H_I,high,ironic,You really saved the day.,"Background (known to both): Jordan promised to help move flats but cancelled on the morning of the move. It is mutually understood that helping means actually showing up.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You really saved the day."""
+C2_03_H_NI,high,non-ironic,You really saved the day.,"Background (known to both): Jordan stayed four extra hours to help finish the move despite having other plans. Both parties know that going out of your way for someone is what saving the day looks like.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You really saved the day."""
+C2_04_L_I,low,ironic,Great job on the report.,"Is the following statement ironic? Answer with yes or no.
+ ""Great job on the report."""
+C2_04_L_NI,low,non-ironic,Great job on the report.,"Is the following statement ironic? Answer with yes or no.
+ ""Great job on the report."""
+C2_04_H_I,high,ironic,Great job on the report.,"Background (known to both): The report was submitted a week late and contained several errors. Both speaker and listener know the deadline and quality standards that were expected.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Great job on the report."""
+C2_04_H_NI,high,non-ironic,Great job on the report.,"Background (known to both): The report was submitted two days early and received praise from the client. Both parties share the same standards for what a good report looks like.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""Great job on the report."""
+C2_05_L_I,low,ironic,You are always so straightforward.,"Is the following statement ironic? Answer with yes or no.
+ ""You are always so straightforward."""
+C2_05_L_NI,low,non-ironic,You are always so straightforward.,"Is the following statement ironic? Answer with yes or no.
+ ""You are always so straightforward."""
+C2_05_H_I,high,ironic,You are always so straightforward.,"Background (known to both): Chris gave a vague non-answer when asked a direct question. Both parties know that being straightforward means giving clear, direct responses.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are always so straightforward."""
+C2_05_H_NI,high,non-ironic,You are always so straightforward.,"Background (known to both): Chris gave an honest answer even though it was uncomfortable to hear. Both parties value directness and know that this is what being straightforward requires.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are always so straightforward."""
+C2_06_L_I,low,ironic,You keep such a tidy flat.,"Is the following statement ironic? Answer with yes or no.
+ ""You keep such a tidy flat."""
+C2_06_L_NI,low,non-ironic,You keep such a tidy flat.,"Is the following statement ironic? Answer with yes or no.
+ ""You keep such a tidy flat."""
+C2_06_H_I,high,ironic,You keep such a tidy flat.,"Background (known to both): The flatmate has not done the dishes in two weeks. It is a shared household expectation that everyone cleans up after themselves.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You keep such a tidy flat."""
+C2_06_H_NI,high,non-ironic,You keep such a tidy flat.,"Background (known to both): The flatmate deep-cleaned the entire kitchen without being asked. It is a shared household expectation that everyone contributes to keeping things clean, and they went beyond that.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You keep such a tidy flat."""
+C2_07_L_I,low,ironic,You are incredibly generous.,"Is the following statement ironic? Answer with yes or no.
+ ""You are incredibly generous."""
+C2_07_L_NI,low,non-ironic,You are incredibly generous.,"Is the following statement ironic? Answer with yes or no.
+ ""You are incredibly generous."""
+C2_07_H_I,high,ironic,You are incredibly generous.,"Background (known to both): Pat borrowed money three months ago and has not paid it back despite reminders. Both parties know that generosity involves giving, not just taking.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are incredibly generous."""
+C2_07_H_NI,high,non-ironic,You are incredibly generous.,"Background (known to both): Pat paid for the whole dinner without mentioning it and refused to be reimbursed. Both parties understand that generosity means giving without expecting something in return.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are incredibly generous."""
+C2_08_L_I,low,ironic,You are such a good listener.,"Is the following statement ironic? Answer with yes or no.
+ ""You are such a good listener."""
+C2_08_L_NI,low,non-ironic,You are such a good listener.,"Is the following statement ironic? Answer with yes or no.
+ ""You are such a good listener."""
+C2_08_H_I,high,ironic,You are such a good listener.,"Background (known to both): The other person was on their phone the entire time. Both speaker and listener know that good listening means giving someone your full attention.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are such a good listener."""
+C2_08_H_NI,high,non-ironic,You are such a good listener.,"Background (known to both): The other person put their phone away and asked thoughtful follow-up questions. Both parties know that good listening means being fully present and engaged.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are such a good listener."""
+C2_09_L_I,low,ironic,You are so well organised.,"Is the following statement ironic? Answer with yes or no.
+ ""You are so well organised."""
+C2_09_L_NI,low,non-ironic,You are so well organised.,"Is the following statement ironic? Answer with yes or no.
+ ""You are so well organised."""
+C2_09_H_I,high,ironic,You are so well organised.,"Background (known to both): The event planner forgot to book the venue. Both parties know that organisation is the core responsibility of an event planner.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are so well organised."""
+C2_09_H_NI,high,non-ironic,You are so well organised.,"Background (known to both): The event planner had a detailed schedule, backup plans, and everything ran on time. Both parties know that this level of preparation is what good organisation looks like.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are so well organised."""
+C2_10_L_I,low,ironic,You are so dedicated to this project.,"Is the following statement ironic? Answer with yes or no.
+ ""You are so dedicated to this project."""
+C2_10_L_NI,low,non-ironic,You are so dedicated to this project.,"Is the following statement ironic? Answer with yes or no.
+ ""You are so dedicated to this project."""
+C2_10_H_I,high,ironic,You are so dedicated to this project.,"Background (known to both): The colleague has missed the last four team meetings. Attendance and active participation are mutually understood as signs of commitment.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are so dedicated to this project."""
+C2_10_H_NI,high,non-ironic,You are so dedicated to this project.,"Background (known to both): The colleague worked over the weekend to make sure the deadline was met. Both parties understand that dedication means putting in extra effort when it matters.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are so dedicated to this project."""
+C2_11_L_I,low,ironic,That was very tactfully handled.,"Is the following statement ironic? Answer with yes or no.
+ ""That was very tactfully handled."""
+C2_11_L_NI,low,non-ironic,That was very tactfully handled.,"Is the following statement ironic? Answer with yes or no.
+ ""That was very tactfully handled."""
+C2_11_H_I,high,ironic,That was very tactfully handled.,"Background (known to both): The manager publicly criticised an employee in front of the whole team. Both parties know that tact means handling sensitive matters privately and with care.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""That was very tactfully handled."""
+C2_11_H_NI,high,non-ironic,That was very tactfully handled.,"Background (known to both): The manager gave difficult feedback privately and with great care for the employee's feelings. Both parties understand that tact means choosing the right moment and manner for sensitive conversations.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""That was very tactfully handled."""
+C2_12_L_I,low,ironic,You are so responsible.,"Is the following statement ironic? Answer with yes or no.
+ ""You are so responsible."""
+C2_12_L_NI,low,non-ironic,You are so responsible.,"Is the following statement ironic? Answer with yes or no.
+ ""You are so responsible."""
+C2_12_H_I,high,ironic,You are so responsible.,"Background (known to both): The teenager forgot to feed the pet for three days despite being reminded. Both parties understand that responsibility means following through on agreed obligations.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are so responsible."""
+C2_12_H_NI,high,non-ironic,You are so responsible.,"Background (known to both): The teenager remembered every obligation without being reminded and took on extra chores. Both parties understand that responsibility means independently following through on what you agreed to do.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are so responsible."""
+C2_13_L_I,low,ironic,You are great at keeping people in the loop.,"Is the following statement ironic? Answer with yes or no.
+ ""You are great at keeping people in the loop."""
+C2_13_L_NI,low,non-ironic,You are great at keeping people in the loop.,"Is the following statement ironic? Answer with yes or no.
+ ""You are great at keeping people in the loop."""
+C2_13_H_I,high,ironic,You are great at keeping people in the loop.,"Background (known to both): The team lead made a major decision without informing anyone. All team members share the expectation that decisions affecting everyone should be communicated.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are great at keeping people in the loop."""
+C2_13_H_NI,high,non-ironic,You are great at keeping people in the loop.,"Background (known to both): The team lead sent a detailed update to everyone before the decision was finalised. All team members share the expectation that good communication means informing people proactively.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You are great at keeping people in the loop."""
+C2_14_L_I,low,ironic,You clearly put a lot of work into this.,"Is the following statement ironic? Answer with yes or no.
+ ""You clearly put a lot of work into this."""
+C2_14_L_NI,low,non-ironic,You clearly put a lot of work into this.,"Is the following statement ironic? Answer with yes or no.
+ ""You clearly put a lot of work into this."""
+C2_14_H_I,high,ironic,You clearly put a lot of work into this.,"Background (known to both): The assignment was submitted as two paragraphs for a task requiring ten pages. Both the student and teacher share an understanding of what the task required.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You clearly put a lot of work into this."""
+C2_14_H_NI,high,non-ironic,You clearly put a lot of work into this.,"Background (known to both): The assignment was twenty pages long and thoroughly researched. Both the student and teacher share an understanding of what a high-effort submission looks like.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You clearly put a lot of work into this."""
+C2_15_L_I,low,ironic,You responded so quickly.,"Is the following statement ironic? Answer with yes or no.
+ ""You responded so quickly."""
+C2_15_L_NI,low,non-ironic,You responded so quickly.,"Is the following statement ironic? Answer with yes or no.
+ ""You responded so quickly."""
+C2_15_H_I,high,ironic,You responded so quickly.,"Background (known to both): The email was sent two weeks ago and was only just answered. In this context, both parties understand that a quick response means replying within a day or two.
+ 
+ Is the following statement ironic? Answer with yes or no.
+ ""You responded so quickly."""
+C2_16_L_I,low,ironic,You are such a natural at this.,"Is the following statement ironic? Answer with yes or no.
+  ""You are such a natural at this."""
+C2_16_L_NI,low,non-ironic,You are such a natural at this.,"Is the following statement ironic? Answer with yes or no.
+  ""You are such a natural at this."""
+C2_16_H_I,high,ironic,You are such a natural at this.,"Background (known to both): It was her third attempt at the task and she still could not complete the first step. Both parties know that being a natural means picking things up quickly and easily.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are such a natural at this."""
+C2_16_H_NI,high,non-ironic,You are such a natural at this.,"Background (known to both): He completed the task on his first try with no guidance and spotted errors the trainer had missed. Both parties know that being a natural means performing effortlessly and intuitively from the start.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are such a natural at this."""
+C2_17_L_I,low,ironic,You really know how to make someone feel welcome.,"Is the following statement ironic? Answer with yes or no.
+  ""You really know how to make someone feel welcome."""
+C2_17_L_NI,low,non-ironic,You really know how to make someone feel welcome.,"Is the following statement ironic? Answer with yes or no.
+  ""You really know how to make someone feel welcome."""
+C2_17_H_I,high,ironic,You really know how to make someone feel welcome.,"Background (known to both): The host barely looked up when the guest arrived, offered no drink, and kept checking their phone. Both speaker and listener share the understanding that making someone feel welcome means giving them attention and warmth.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You really know how to make someone feel welcome."""
+C2_17_H_NI,high,non-ironic,You really know how to make someone feel welcome.,"Background (known to both): The host greeted the guest at the door, had their favourite snacks ready, and made introductions to everyone. Both parties understand that making someone feel welcome means being attentive and thoughtful from the moment they arrive.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You really know how to make someone feel welcome."""
+C2_18_L_I,low,ironic,You are so easy to work with.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so easy to work with."""
+C2_18_L_NI,low,non-ironic,You are so easy to work with.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so easy to work with."""
+C2_18_H_I,high,ironic,You are so easy to work with.,"Background (known to both): The colleague missed every deadline, ignored feedback, and required constant follow-up on each task. Both parties know that being easy to work with means being reliable, responsive, and open to input.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so easy to work with."""
+C2_18_H_NI,high,non-ironic,You are so easy to work with.,"Background (known to both): The colleague delivered ahead of schedule, incorporated all feedback, and kept everyone informed without being asked. Both parties understand that being easy to work with means being proactive, flexible, and communicative.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so easy to work with."""
+C2_19_L_I,low,ironic,You are so good at reading the room.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so good at reading the room."""
+C2_19_L_NI,low,non-ironic,You are so good at reading the room.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so good at reading the room."""
+C2_19_H_I,high,ironic,You are so good at reading the room.,"Background (known to both): She launched into a long anecdote right as the meeting was wrapping up and everyone was trying to leave. Both speaker and listener understand that reading the room means picking up on the mood and adjusting accordingly.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so good at reading the room."""
+C2_19_H_NI,high,non-ironic,You are so good at reading the room.,"Background (known to both): He noticed the team was exhausted and suggested wrapping up early before anyone had to ask. Both parties know that reading the room means recognising what others need without them having to say it.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so good at reading the room."""
+C2_20_L_I,low,ironic,You always follow through on your promises.,"Is the following statement ironic? Answer with yes or no.
+  ""You always follow through on your promises."""
+C2_20_L_NI,low,non-ironic,You always follow through on your promises.,"Is the following statement ironic? Answer with yes or no.
+  ""You always follow through on your promises."""
+C2_20_H_I,high,ironic,You always follow through on your promises.,"Background (known to both): He said he would have the draft ready by Tuesday and finally sent it the following month. Both parties understand that following through on promises means doing what you said you would, when you said you would.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You always follow through on your promises."""
+C2_20_H_NI,high,non-ironic,You always follow through on your promises.,"Background (known to both): She committed to having the draft ready by Tuesday and delivered it Monday evening with a note asking for feedback. Both parties share the understanding that following through means keeping your word reliably and without needing reminders.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You always follow through on your promises."""
+C2_21_L_I,low,ironic,You are so good at taking criticism.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so good at taking criticism."""
+C2_21_L_NI,low,non-ironic,You are so good at taking criticism.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so good at taking criticism."""
+C2_21_H_I,high,ironic,You are so good at taking criticism.,"Background (known to both): He went silent for two days after receiving feedback and then sent a lengthy email defending every choice. Both parties know that taking criticism well means listening, acknowledging, and moving forward constructively.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so good at taking criticism."""
+C2_21_H_NI,high,non-ironic,You are so good at taking criticism.,"Background (known to both): She thanked the reviewer, asked clarifying questions, and incorporated every suggestion into the next draft. Both parties understand that taking criticism well means receiving it openly and using it to improve.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so good at taking criticism."""
+C2_22_L_I,low,ironic,You really have a gift for explaining things clearly.,"Is the following statement ironic? Answer with yes or no.
+  ""You really have a gift for explaining things clearly."""
+C2_22_L_NI,low,non-ironic,You really have a gift for explaining things clearly.,"Is the following statement ironic? Answer with yes or no.
+  ""You really have a gift for explaining things clearly."""
+C2_22_H_I,high,ironic,You really have a gift for explaining things clearly.,"Background (known to both): His explanation used so much jargon that no one in the room understood what he was trying to say. Both speaker and listener know that explaining clearly means using language the audience can follow.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You really have a gift for explaining things clearly."""
+C2_22_H_NI,high,non-ironic,You really have a gift for explaining things clearly.,"Background (known to both): Her explanation used a simple analogy that made the whole group nod and say they finally understood. Both parties understand that clear explanation means making a concept accessible to the specific audience.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You really have a gift for explaining things clearly."""
+C2_23_L_I,low,ironic,You handle pressure so well.,"Is the following statement ironic? Answer with yes or no.
+  ""You handle pressure so well."""
+C2_23_L_NI,low,non-ironic,You handle pressure so well.,"Is the following statement ironic? Answer with yes or no.
+  ""You handle pressure so well."""
+C2_23_H_I,high,ironic,You handle pressure so well.,"Background (known to both): She panicked, snapped at two colleagues, and left the meeting before it was over when the deadline moved up. Both parties understand that handling pressure well means staying calm and functional in stressful situations.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You handle pressure so well."""
+C2_23_H_NI,high,non-ironic,You handle pressure so well.,"Background (known to both): He stayed calm, redistributed the workload fairly, and kept the team focused until everything was under control. Both parties know that handling pressure well means leading steadily and keeping things together when it matters most.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You handle pressure so well."""
+C2_24_L_I,low,ironic,You are incredibly patient.,"Is the following statement ironic? Answer with yes or no.
+  ""You are incredibly patient."""
+C2_24_L_NI,low,non-ironic,You are incredibly patient.,"Is the following statement ironic? Answer with yes or no.
+  ""You are incredibly patient."""
+C2_24_H_I,high,ironic,You are incredibly patient.,"Background (known to both): She sighed loudly and walked away after waiting less than two minutes for an answer. Both speaker and listener understand that patience means waiting calmly without expressing frustration.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are incredibly patient."""
+C2_24_H_NI,high,non-ironic,You are incredibly patient.,"Background (known to both): He waited quietly for twenty minutes while the other person gathered their thoughts without rushing them once. Both parties know that patience means giving others the time they need without making them feel pressured.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are incredibly patient."""
+C2_25_L_I,low,ironic,You are so great at staying calm.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so great at staying calm."""
+C2_25_L_NI,low,non-ironic,You are so great at staying calm.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so great at staying calm."""
+C2_25_H_I,high,ironic,You are so great at staying calm.,"Background (known to both): The moment things got difficult, he raised his voice and started blaming other people in the room. Both parties know that staying calm means maintaining composure even when things go wrong.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so great at staying calm."""
+C2_25_H_NI,high,non-ironic,You are so great at staying calm.,"Background (known to both): Even when the situation became chaotic, she spoke slowly, listened carefully, and kept everyone focused. Both parties share the understanding that staying calm means regulating one's reactions under pressure.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so great at staying calm."""
+C2_26_L_I,low,ironic,You always know exactly what to say.,"Is the following statement ironic? Answer with yes or no.
+  ""You always know exactly what to say."""
+C2_26_L_NI,low,non-ironic,You always know exactly what to say.,"Is the following statement ironic? Answer with yes or no.
+  ""You always know exactly what to say."""
+C2_26_H_I,high,ironic,You always know exactly what to say.,"Background (known to both): He responded to the difficult news by saying he did not know what to say and then changed the subject. Both speaker and listener understand that knowing what to say means offering words that are helpful or comforting in the moment.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You always know exactly what to say."""
+C2_26_H_NI,high,non-ironic,You always know exactly what to say.,"Background (known to both): Without hesitation, she said exactly the right thing and the other person immediately felt understood and supported. Both parties know that knowing what to say means responding in a way that genuinely helps the other person.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You always know exactly what to say."""
+C2_27_L_I,low,ironic,You are such a team player.,"Is the following statement ironic? Answer with yes or no.
+  ""You are such a team player."""
+C2_27_L_NI,low,non-ironic,You are such a team player.,"Is the following statement ironic? Answer with yes or no.
+  ""You are such a team player."""
+C2_27_H_I,high,ironic,You are such a team player.,"Background (known to both): He refused to share his notes, missed the group call, and submitted his section without checking it with the others. Both parties know that being a team player means contributing to the group and putting shared goals above personal convenience.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are such a team player."""
+C2_27_H_NI,high,non-ironic,You are such a team player.,"Background (known to both): She stayed late to help a struggling colleague, shared all her resources, and made sure everyone's contributions were acknowledged. Both parties understand that being a team player means actively supporting others and prioritising the group's success.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are such a team player."""
+C2_28_L_I,low,ironic,You are so good at keeping your cool.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so good at keeping your cool."""
+C2_28_L_NI,low,non-ironic,You are so good at keeping your cool.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so good at keeping your cool."""
+C2_28_H_I,high,ironic,You are so good at keeping your cool.,"Background (known to both): As soon as the other driver made a mistake, she rolled down the window and started shouting. Both parties understand that keeping your cool means not reacting aggressively when things go wrong.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so good at keeping your cool."""
+C2_28_H_NI,high,non-ironic,You are so good at keeping your cool.,"Background (known to both): Even when the other driver cut him off, he simply adjusted his speed and carried on without reacting. Both parties know that keeping your cool means responding to provocations calmly and without escalating.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so good at keeping your cool."""
+C2_29_L_I,low,ironic,You are so mindful of other people's time.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so mindful of other people's time."""
+C2_29_L_NI,low,non-ironic,You are so mindful of other people's time.,"Is the following statement ironic? Answer with yes or no.
+  ""You are so mindful of other people's time."""
+C2_29_H_I,high,ironic,You are so mindful of other people's time.,"Background (known to both): She scheduled a two-hour meeting for something that could have been a three-line email. Both speaker and listener share the understanding that being mindful of time means not wasting it unnecessarily.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so mindful of other people's time."""
+C2_29_H_NI,high,non-ironic,You are so mindful of other people's time.,"Background (known to both): He checked whether everyone was available before scheduling and kept the meeting to twelve focused minutes. Both parties know that being mindful of time means respecting others' schedules and keeping things efficient.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are so mindful of other people's time."""
+C2_30_L_I,low,ironic,You are always so supportive.,"Is the following statement ironic? Answer with yes or no.
+  ""You are always so supportive."""
+C2_30_L_NI,low,non-ironic,You are always so supportive.,"Is the following statement ironic? Answer with yes or no.
+  ""You are always so supportive."""
+C2_30_H_I,high,ironic,You are always so supportive.,"Background (known to both): When she shared her idea, he immediately listed everything wrong with it without acknowledging a single strength. Both parties understand that being supportive means encouraging others and acknowledging their efforts.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are always so supportive."""
+C2_30_H_NI,high,non-ironic,You are always so supportive.,"Background (known to both): When she shared her idea, he highlighted what was strong about it first and then offered thoughtful suggestions. Both parties know that being supportive means responding to others' ideas in a way that builds confidence and trust.
+ 
+
+ Is the following statement ironic? Answer with yes or no.
+  ""You are always so supportive."""
